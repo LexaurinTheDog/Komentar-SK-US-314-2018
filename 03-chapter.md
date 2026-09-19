@@ -2,7 +2,7 @@
 
 ### § 100
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výroková časť, odôvodnenie a poučenie o právnych účinkoch nálezu ústavného súdu v konaní o súlade medzinárodných zmlúv sa spolu so znením pripojených odlišných stanovísk vyhlási v zbierke zákonov. Plénum ústavného súdu rozhodne, ktorá časť odôvodnenia nálezu, z ktorej je zrejmé, aký je právny názor ústavného súdu a aké dôvody ho k nemu viedli, sa vyhlási v zbierke zákonov.
 > (2) Nález ústavného súdu je právoplatný odo dňa jeho vyhlásenia v zbierke zákonov.
 
@@ -10,7 +10,7 @@ Ustanovenie upravuje spôsob publikácie a okamih právoplatnosti nálezu v kona
 
 ### § 101
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak ústavný súd rozhodne, že medzinárodná zmluva nie je v súlade s ústavou alebo ústavným zákonom, nemožno ju ratifikovať.
 
 Ide o kľúčové hmotnoprávne ustanovenie celého konania o súlade medzinárodných zmlúv (tzv. predbežná kontrola ústavnosti) – vyjadruje jeho preventívnu funkciu. Kým pri následnej kontrole právnych predpisov ústavný súd ruší už účinné normy, pri predbežnej kontrole medzinárodných zmlúv pôsobí ako procesná prekážka vstupu nesúladnej medzinárodnoprávnej záväzku do slovenského právneho poriadku. Záväzný negatívny nález tak bráni prezidentovi (prípadne inému ústavou určenému orgánu) v dokončení ratifikačného procesu, kým nedôjde buď k zmene zmluvy, k pripojeniu výhrady, alebo k ústavodarnej zmene. Týmto sa realizuje zásada, že Slovenská republika sa nemôže medzinárodnoprávne zaviazať k záväzku, ktorý je v rozpore s jej ústavným poriadkom, čím sa predchádza budúcim kolíziám medzi medzinárodným a vnútroštátnym právom už v štádiu pred vznikom záväzku.
@@ -19,7 +19,7 @@ Ide o kľúčové hmotnoprávne ustanovenie celého konania o súlade medzináro
 
 ### § 102
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na začatie konania podľa čl. 125b ústavy o súlade predmetu referenda, ktoré sa má vyhlásiť na základe petície občanov alebo uznesenia národnej rady, s ústavou alebo s ústavným zákonom, môže podať ústavnému súdu prezident, ak pred vyhlásením referenda má pochybnosti, či predmet referenda je v súlade s ústavou alebo ústavným zákonom.
 
@@ -27,7 +27,7 @@ Konanie o súlade predmetu referenda predstavuje ďalší typ preventívnej (pre
 
 ### § 103
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania
 > Návrh na začatie konania o súlade predmetu referenda okrem všeobecných náležitostí podľa § 43 musí obsahovať
 > a) predmet referenda,
@@ -39,7 +39,7 @@ Ustanovenie konkretizuje osobitné (kvalifikované) náležitosti návrhu prezid
 
 ### § 104
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú prezident a národná rada. Ak sa má referendum vyhlásiť na základe petície občanov, účastníkmi konania sú prezident a petičný výbor.
 
@@ -47,7 +47,7 @@ Okruh účastníkov konania kopíruje ústavný mechanizmus vyhlasovania referen
 
 ### § 105
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vyžiadanie stanovísk
 > (1) Predseda ústavného súdu si pred rozhodnutím vyžiada stanovisko národnej rady, a ak sa má referendum vyhlásiť na základe petície občanov, aj stanovisko petičného výboru.
 > (2) Každý, od koho si predseda ústavného súdu vyžiadal stanovisko podľa odseku 1, je povinný toto stanovisko poskytnúť.
@@ -59,14 +59,14 @@ Ustanovenie zakotvuje povinné vyžiadanie stanoviska protistrany (odsek 1) ako 
 
 ### § 106
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd rozhodne o návrhu na začatie konania o súlade predmetu referenda do 60 dní od jeho doručenia.
 
 Zákon stanovuje pomerne krátku poriadkovú lehotu na rozhodnutie vo veci samej, čo zodpovedá naliehavosti veci – referendum je časovo viazaný ústavný proces a dlhodobá procesná neistota o ústavnosti jeho predmetu by mohla ohroziť samotné konanie referenda alebo legitimitu jeho výsledku. Lehota plynie od doručenia návrhu ústavnému súdu (nie od jeho podania), v súlade so všeobecným pravidlom o začatí konania podľa § 41 ods. 2. Ide o lehotu poriadkovú (nie prekluzívnu), jej nedodržanie teda samo osebe nezakladá neplatnosť rozhodnutia vydaného po jej uplynutí, avšak predstavuje dôležitý interný záväzok súdu na rýchle rozhodnutie, ktorý koordinuje aj s ústavným rámcom prípravy a vyhlásenia referenda.
 
 ### § 107
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd dospeje k záveru, že predmet referenda je v súlade s ústavou alebo ústavným zákonom, vysloví tento súlad nálezom.
 > (2) Ak ústavný súd dospeje k záveru, že predmet referenda nie je v súlade s ústavou alebo ústavným zákonom, vysloví tento nesúlad nálezom, v ktorom uvedie, s ktorými ustanoveniami ústavy alebo ústavného zákona nie je predmet referenda v súlade.
 
@@ -74,7 +74,7 @@ Ustanovenie upravuje binárnu (dichotomickú) štruktúru meritórneho rozhodnut
 
 ### § 108
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Výroková časť, odôvodnenie a poučenie o právnych účinkoch nálezu ústavného súdu v konaní o súlade predmetu referenda sa spolu so znením pripojených odlišných stanovísk vyhlási v zbierke zákonov. Plénum ústavného súdu rozhodne, ktorá časť odôvodnenia nálezu, z ktorej je zrejmé, aký je právny názor ústavného súdu a aké dôvody ho k nemu viedli, sa vyhlási v zbierke zákonov.
 > (2) Nález ústavného súdu je právoplatný odo dňa jeho vyhlásenia v zbierke zákonov.
 
@@ -82,7 +82,7 @@ Ustanovenie je obsahovo zhodné s režimom publikácie a právoplatnosti upraven
 
 ### § 109
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak ústavný súd rozhodne, že predmet referenda nie je v súlade s ústavou alebo ústavným zákonom, referendum nemožno vyhlásiť.
 
 Rovnako ako pri medzinárodných zmluvách (§ 101), aj tu zákon stanovuje jednoznačný a nekompromisný právny následok negatívneho nálezu – absolútnu procesnú prekážku vyhlásenia referenda s daným (nesúladným) predmetom. Prezident tak stráca právomoc referendum s takto vymedzenou otázkou vyhlásiť, a to bez ohľadu na to, či ide o referendum iniciované petíciou občanov alebo uznesením národnej rady. Týmto sa zabraňuje situácii, v ktorej by sa občania vyjadrovali hlasovaním k otázke, ktorej prípadné kladné schválenie by viedlo k protiústavnému výsledku, resp. k nevykonateľnosti výsledku referenda. Ustanovenie tak plní preventívnu funkciu ochrany ústavnosti priamej demokracie a zároveň zabraňuje vynaloženiu značných organizačných a finančných nákladov na referendum, ktorého výsledok by nemohol byť právne realizovaný.
@@ -91,7 +91,7 @@ Rovnako ako pri medzinárodných zmluvách (§ 101), aj tu zákon stanovuje jedn
 
 ### § 110
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na začatie konania v kompetenčnom spore medzi ústrednými orgánmi štátnej správy podľa čl. 126 ods. 1 ústavy môže podať ústredný orgán štátnej správy, ktorý tvrdí, že má právomoc vo veci rozhodnúť, ako aj ten ústredný orgán štátnej správy, ktorý svoju právomoc rozhodnúť vo veci odmieta.
 
@@ -99,7 +99,7 @@ Konanie o kompetenčných sporoch rieši tzv. pozitívny aj negatívny kompeten�
 
 ### § 111
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania
 > Návrh na začatie konania v kompetenčnom spore okrem všeobecných náležitostí podľa § 43 musí obsahovať
 > a) skutkový základ sporu a právny základ sporu,
@@ -110,7 +110,7 @@ Osobitné náležitosti návrhu reflektujú dvojitú (skutkovú aj právnu) pova
 
 ### § 112
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú navrhovateľ a ústredné orgány štátnej správy, ktorých sa kompetenčný spor týka.
 
@@ -118,7 +118,7 @@ Okruh účastníkov je vymedzený funkčne – zahŕňa navrhovateľa a všetky 
 
 ### § 113
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Späťvzatie návrhu na začatie konania
 > Návrh na začatie konania v spore o právomoc medzi ústrednými orgánmi štátnej správy, ktorý bol prijatý na ďalšie konanie, môže navrhovateľ vziať späť iba so súhlasom ústavného súdu. Ak navrhovateľ vezme svoj návrh na začatie konania späť a ústavný súd so späťvzatím návrhu súhlasí, uznesením konanie zastaví.
 
@@ -128,14 +128,14 @@ Na rozdiel od bežnej dispozičnej zásady občianskeho súdneho konania, kde sp
 
 ### § 114
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak rozhodnutie v kompetenčnom spore patrí do právomoci iného štátneho orgánu, ústavný súd návrh uznesením odmietne pre nedostatok právomoci na jeho prerokovanie.
 
 Ustanovenie rieši procesnú situáciu, keď sa v priebehu konania ukáže, že vyriešenie predloženého sporu nepatrí do právomoci ústavného súdu, ale iného štátneho orgánu (napríklad všeobecného súdu v rámci správneho súdnictva, ak ide o spor riešiteľný prostriedkami správneho práva, alebo iného orgánu, ktorému zákon zveruje záväzné rozhodovanie o kompetenčných otázkach). V takom prípade ústavný súd nekoná meritórne, ale návrh odmietne procesným uznesením pre nedostatok vlastnej právomoci. Ide o prejav zásady, že právomoc ústavného súdu v kompetenčných sporoch je subsidiárna a nastupuje len tam, kde neexistuje iný zákonom predpokladaný mechanizmus riešenia sporu medzi ústrednými orgánmi štátnej správy.
 
 ### § 115
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústavný súd nálezom rozhodne, ktorý z ústredných orgánov štátnej správy, ktorých sa kompetenčný spor týka, má právomoc vo veci rozhodnúť.
 > (2) Ak ústredný orgán štátnej správy vydal rozhodnutie vo veci, ktorej sa kompetenčný spor týka, a podľa ústavného súdu má právomoc vo veci rozhodnúť iný ústredný orgán štátnej správy, ústavný súd svojím nálezom takéto rozhodnutie zruší.
 > (3) Ak ústredný orgán štátnej správy vydal vo veci, ktorej sa kompetenčný spor týka, rozhodnutie, ktorým poprel svoju právomoc, a podľa ústavného súdu má právomoc vo veci rozhodnúť, ústavný súd svojím nálezom takéto rozhodnutie zruší.
@@ -146,7 +146,7 @@ Toto ustanovenie predstavuje jadro meritórneho rozhodovania o kompetenčnom spo
 
 ### § 115a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Na kompetenčné spory medzi najvyšším súdom a najvyšším správnym súdom sa primerane použijú § 110 až 115.
 
 Ustanovenie rozširuje mechanizmus riešenia kompetenčných sporov, primárne koncipovaný pre ústredné orgány štátnej správy, aj na kompetenčné spory medzi Najvyšším súdom Slovenskej republiky a Najvyšším správnym súdom Slovenskej republiky, ktoré môžu vzniknúť najmä v dôsledku rozdelenia súdnej právomoci medzi všeobecné a správne súdnictvo po vzniku samostatnej sústavy správneho súdnictva. Legislatívno-technická metóda „primeraného použitia" znamená, že sa aplikujú ustanovenia o procesnej legitimácii, náležitostiach návrhu, účastníkoch, späťvzatí a rozhodovaní (§ 110 až 115) s prihliadnutím na osobitosti tohto typu sporu – teda s nahradením pojmu „ústredný orgán štátnej správy" pojmami „najvyšší súd" a „najvyšší správny súd", kde je to vecne odôvodnené. Ide o typický príklad legislatívnej ekonómie, ktorá sa v zákone opakuje aj pri ďalších typoch konaní (napr. § 144, § 183, § 213).
@@ -155,7 +155,7 @@ Ustanovenie rozširuje mechanizmus riešenia kompetenčných sporov, primárne k
 
 ### § 116
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na začatie konania v spore o kontrolnú pôsobnosť najvyššieho kontrolného úradu podľa čl. 126 ods. 2 ústavy môže podať najvyšší kontrolný úrad, ak je jeho kontrolná pôsobnosť v konkrétnom prípade dotknutým subjektom namietaná, ako aj ten, kto ako dotknutý subjekt namieta kontrolnú pôsobnosť najvyššieho kontrolného úradu v konkrétnej veci.
 
@@ -163,7 +163,7 @@ Popri kompetenčných sporoch medzi orgánmi štátnej správy upravuje zákon s
 
 ### § 117
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania
 > Návrh na začatie konania v spore o kontrolnú pôsobnosť najvyššieho kontrolného úradu okrem všeobecných náležitostí podľa § 43 musí obsahovať
 > a) skutkový základ sporu a právny základ sporu,
@@ -174,7 +174,7 @@ Osobitné náležitosti návrhu sú koncipované analogicky k náležitostiam n�
 
 ### § 118
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú najvyšší kontrolný úrad a ten, kto je priamo dotknutý namietanou kontrolnou pôsobnosťou najvyššieho kontrolného úradu.
 
@@ -182,7 +182,7 @@ Osobitné náležitosti návrhu sú koncipované analogicky k náležitostiam n�
 
 ### § 119
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Späťvzatie návrhu na začatie konania
 > Návrh na začatie konania v spore o kontrolnú pôsobnosť najvyššieho kontrolného úradu môže navrhovateľ vziať späť iba so súhlasom ústavného súdu. Ak navrhovateľ vezme svoj návrh na začatie konania späť a ústavný súd so späťvzatím návrhu súhlasí, uznesením konanie zastaví.
 
@@ -192,14 +192,14 @@ Podmienenie späťvzatia návrhu súhlasom ústavného súdu je zhodné s úprav
 
 ### § 120
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd nálezom rozhodne, či v spornom prípade je daná kontrolná pôsobnosť najvyššieho kontrolného úradu.
 
 Meritórne rozhodnutie má formu nálezu a jeho obsahom je záväzné určenie, či sa kontrolná pôsobnosť najvyššieho kontrolného úradu na posudzovaný prípad vzťahuje, alebo nie. Ide o deklaratórne rozhodnutie s precedenčným významom pre daný konkrétny prípad kontroly; na rozdiel od § 115 pri kompetenčných sporoch tu zákon výslovne neupravuje kasačné právomoci vo vzťahu k už vydaným aktom, keďže spor o kontrolnú pôsobnosť sa spravidla rieši ešte pred (alebo v priebehu) vykonávania kontroly, nie vo vzťahu k už vydanému meritórnemu rozhodnutiu iného orgánu.
 
 ### § 121
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Od podania návrhu na začatie konania v spore o kontrolnú pôsobnosť najvyššieho kontrolného úradu do rozhodnutia ústavného súdu v tomto konaní nemôže najvyšší kontrolný úrad v konkrétnej veci, ktorej sa spor o kontrolnú pôsobnosť najvyššieho kontrolného úradu týka, vykonať kontrolu, a ak s vykonávaním kontroly už začal, nemôže v nej pokračovať.
 
 Ustanovenie zakotvuje automatický (ex lege) odkladný účinok podania návrhu na výkon kontroly zo strany najvyššieho kontrolného úradu – nejde teda o fakultatívne predbežné opatrenie, o ktorom by musel súd rozhodovať, ale o priamy zákonný následok podania návrhu. Účelom je ochrana dotknutého subjektu pred výkonom kontroly, ktorej oprávnenosť je práve predmetom sporu – bolo by nelogické a potenciálne zasahujúce do práv kontrolovaného subjektu, keby úrad mohol kontrolu vykonávať (či v nej pokračovať) počas trvania neistoty o tom, či mu vôbec takáto pôsobnosť patrí. Táto úprava sa blíži funkcii odkladu vykonateľnosti známeho z konania o ústavnej sťažnosti (§ 129), tu je však koncipovaná ako automatický procesný následok bez potreby osobitného návrhu či rozhodnutia súdu.
@@ -208,7 +208,7 @@ Ustanovenie zakotvuje automatický (ex lege) odkladný účinok podania návrhu 
 
 ### § 122
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie ústavnej sťažnosti
 > Ústavnú sťažnosť môže podať osoba (ďalej len „sťažovateľ“), ktorá tvrdí, že právoplatným rozhodnutím, opatrením alebo iným zásahom boli porušené jej základné práva a slobody.
 
@@ -216,7 +216,7 @@ Ustanovenie zakotvuje automatický (ex lege) odkladný účinok podania návrhu 
 
 ### § 123
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavná sťažnosť
 > (1) Ústavná sťažnosť musí okrem všeobecných náležitostí návrhu na začatie konania podľa § 43 obsahovať
 > a) označenie toho, kto podľa sťažovateľa porušil jeho základné práva a slobody,
@@ -235,7 +235,7 @@ Odsek 1 vymedzuje kvalifikované obsahové náležitosti ústavnej sťažnosti, 
 
 ### § 124
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie ústavnej sťažnosti
 > Ústavnú sťažnosť možno podať do dvoch mesiacov od nadobudnutia právoplatnosti rozhodnutia, oznámenia opatrenia alebo upovedomenia o inom zásahu. Táto lehota sa pri opatrení alebo inom zásahu počíta odo dňa, keď sa sťažovateľ mohol o opatrení alebo inom zásahu dozvedieť. Ak rozhodnutie nadobúda právoplatnosť vyhlásením alebo oznámením a ak sa podľa osobitných predpisov zároveň doručuje jeho písomné vyhotovenie, začína lehota plynúť dňom doručenia tohto písomného vyhotovenia sťažovateľovi; ak sa rozhodnutie doručuje len jeho zástupcovi, začína lehota plynúť dňom doručenia písomného vyhotovenia tohto rozhodnutia tomuto zástupcovi. Ak bol vo veci podaný mimoriadny opravný prostriedok, lehota na podanie ústavnej sťažnosti vo vzťahu k rozhodnutiu, ktoré bolo mimoriadnym opravným prostriedkom napadnuté, začína plynúť od doručenia rozhodnutia o mimoriadnom opravnom prostriedku.
 
@@ -245,21 +245,21 @@ Dvojmesačná lehota na podanie ústavnej sťažnosti je lehotou prekluzívnou (
 
 ### § 125
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníkmi konania sú sťažovateľ a orgán verejnej moci, proti ktorému ústavná sťažnosť smeruje.
 
 Ustanovenie vymedzuje základný, dvojstranný okruh účastníkov konania o ústavnej sťažnosti – sťažovateľa na strane jednej a orgán verejnej moci (súd, správny orgán, iný nositeľ verejnej moci), ktorého rozhodnutie, opatrenie alebo iný zásah sa napáda, na strane druhej. Táto štruktúra zodpovedá povahe ústavnej sťažnosti ako prostriedku vertikálnej ochrany základných práv jednotlivca voči verejnej moci, nie horizontálneho sporu medzi súkromnými subjektmi. Presné určenie, ktorý konkrétny orgán verejnej moci je účastníkom, má praktický význam najmä pre doručovanie a pre určenie subjektu povinného plniť z prípadného vyhovujúceho nálezu (§ 133, § 134).
 
 ### § 126
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak ústavný súd na predbežnom prerokovaní prijme ústavnú sťažnosť na ďalšie konanie (§ 56 ods. 5), upovedomí o podanej ústavnej sťažnosti zúčastnenú osobu. Zúčastnená osoba má právo vyjadriť sa k ústavnej sťažnosti v lehote určenej ústavným súdom.
 
 Ustanovenie zavádza inštitút zúčastnenej osoby – tretej osoby, ktorá nie je formálnym účastníkom konania, ale ktorej právne postavenie môže byť rozhodnutím ústavného súdu priamo dotknuté (typicky protistrana sťažovateľa v pôvodnom súdnom alebo správnom konaní, z ktorého napadnuté rozhodnutie vzišlo). Priznanie postavenia zúčastnenej osoby je viazané na formálnu podmienku prijatia sťažnosti na ďalšie konanie po predbežnom prerokovaní (§ 56 ods. 5) – v štádiu predbežného prerokovania teda zúčastnená osoba ešte nie je do konania zapájaná. Jej procesné právo sa obmedzuje na možnosť vyjadriť sa k sťažnosti v lehote určenej súdom, čo je menej než plnohodnotné účastníctvo, no napriek tomu predstavuje dôležitú záruku, že rozhodnutie s priamym dopadom na jej právne postavenie nebude vydané bez možnosti vypočutia jej stanoviska.
 
 ### § 127
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Späťvzatie ústavnej sťažnosti
 > Ak sťažovateľ vezme svoju ústavnú sťažnosť späť, ústavný súd konanie o nej uznesením zastaví.
 
@@ -267,7 +267,7 @@ Na rozdiel od späťvzatia návrhu v kompetenčných sporoch (§ 113) alebo v sp
 
 ### § 128
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podanie ústavnej sťažnosti nemá odkladný účinok.
 
 Ustanovenie zakotvuje základné pravidlo, že samotné podanie ústavnej sťažnosti nezasahuje do vykonateľnosti napadnutého rozhodnutia, opatrenia či iného zásahu – ten zostáva vykonateľný a jeho účinky trvajú aj počas konania pred ústavným súdom. Ide o vyjadrenie zásady právnej istoty a stability už právoplatne ukončených konaní, ktorá by bola narušená, ak by každé podanie ústavnej sťažnosti automaticky blokovalo výkon napadnutého aktu. Toto pravidlo však nie je absolútne – zákon v nasledujúcich ustanoveniach (§ 129 a § 130) pripúšťa možnosť, aby ústavný súd na návrh sťažovateľa fakultatívne odložil vykonateľnosť napadnutého aktu alebo nariadil dočasné opatrenie, ak sú splnené osobitné podmienky hroziacej závažnej ujmy.
@@ -276,21 +276,21 @@ Ustanovenie zakotvuje základné pravidlo, že samotné podanie ústavnej sťaž
 
 ### § 129
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd môže na návrh sťažovateľa odložiť vykonateľnosť napadnutého právoplatného rozhodnutia, opatrenia alebo iného zásahu, ak by právnymi následkami napadnutého právoplatného rozhodnutia, opatrenia alebo iného zásahu hrozila závažná ujma a odloženie vykonateľnosti nie je v rozpore s verejným záujmom.
 
 Odklad vykonateľnosti je fakultatívnym predbežným opatrením, ktoré ústavný súd nariaďuje výlučne na návrh sťažovateľa (nikdy nie z vlastnej iniciatívy), pričom zákon stanovuje dve kumulatívne podmienky jeho priznania: hroziacu závažnú ujmu v dôsledku právnych následkov napadnutého aktu a súčasne absenciu rozporu s verejným záujmom. Ide teda o test proporcionality medzi záujmom sťažovateľa na predbežnej ochrane pred nezvratnými alebo ťažko odstrániteľnými dôsledkami výkonu napadnutého aktu a verejným záujmom na jeho realizácii (napríklad pri rozhodnutiach s dosahom na tretie osoby alebo verejné financie). Odklad vykonateľnosti nezasahuje do právoplatnosti napadnutého aktu, iba dočasne bráni jeho výkonu, čím sa zachováva status quo do rozhodnutia vo veci samej.
 
 ### § 130
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd môže na návrh sťažovateľa rozhodnúť o dočasnom opatrení, ak to nie je v rozpore s verejným záujmom a ak by výkon napadnutého rozhodnutia, opatrenia alebo iného zásahu znamenal pre sťažovateľa väčšiu ujmu, než aká môže vzniknúť iným osobám, najmä uloží orgánu verejnej moci, ktorý podľa sťažovateľa porušil jeho základné práva a slobody, aby sa dočasne zdržal vykonávania právoplatného rozhodnutia, opatrenia alebo iného zásahu a tretím osobám uloží, aby sa dočasne zdržali oprávnenia im priznaného právoplatným rozhodnutím, opatrením alebo iným zásahom.
 
 Dočasné opatrenie je koncepčne širším a aktívnejším nástrojom predbežnej ochrany než odklad vykonateľnosti – kým odklad iba pozastavuje účinky napadnutého aktu, dočasné opatrenie môže ukladať aktívne povinnosti zdržania sa konania, a to nielen orgánu verejnej moci (pôvodcovi napadnutého aktu), ale aj tretím osobám, ktorým bolo napadnutým aktom priznané určité oprávnenie. Podmienkou je test relatívnej závažnosti ujmy – ujma hroziaca sťažovateľovi musí prevažovať nad ujmou, ktorá by mohla vzniknúť iným osobám výkonom dočasného opatrenia, opäť popri požiadavke súladu s verejným záujmom. Demonštratívny výpočet („najmä“) príkladov dočasného opatrenia naznačuje, že súd môže formulovať aj iné, na mieru šité opatrenie zodpovedajúce konkrétnej situácii, pokiaľ zostáva v medziach zákonného účelu – zabrániť nenapraviteľnému alebo ťažko napraviteľnému zásahu do práv sťažovateľa počas trvania konania.
 
 ### § 131
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Odklad vykonateľnosti aj dočasné opatrenie zanikajú najneskoršie právoplatnosťou rozhodnutia ústavného súdu vo veci samej, ak ústavný súd nerozhodne o ich skoršom zrušení.
 > (2) Odklad vykonateľnosti aj dočasné opatrenie môže ústavný súd zrušiť aj bez návrhu, ak sa v priebehu konania ukáže, že pominuli dôvody, pre ktoré sa nariadili, alebo sa ukáže, že tieto dôvody vôbec neboli dané.
 
@@ -298,7 +298,7 @@ Ustanovenie upravuje časové trvanie a zánik oboch predbežných opatrení. Od
 
 ### § 131a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predloženie veci na konanie o súlade právnych predpisov
 > (1) Ak sťažovateľ spolu s ústavnou sťažnosťou podal návrh podľa § 123 ods. 4, a ak senát ústavného súdu dospeje k záveru, že tento návrh je dôvodný, konanie o sťažnosti preruší a podá návrh na začatie konania podľa čl. 125 ods. 1 ústavy.
 > (2) Senát ústavného súdu je v prípade podania návrhu na začatie konania podľa čl. 125 ods. 1 ústavy viazaný rozsahom návrhu sťažovateľa podľa § 123 ods. 4, avšak nie dôvodmi takéhoto návrhu. Návrh na začatie konania podľa čl. 125 ods. 1 ústavy predloží ústavnému súdu sudca spravodajca.
@@ -311,7 +311,7 @@ Toto ustanovenie procesne dotvára akcesorický (konkrétny) mechanizmus kontrol
 
 ### § 132
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústavná sťažnosť je neprípustná, ak o ochrane základných práv a slobôd sťažovateľa vo veci, ktorej sa ústavná sťažnosť týka, je príslušný rozhodovať iný súd alebo ak sťažovateľ nevyčerpal právne prostriedky, ktoré mu priznáva zákon na ochranu jeho základných práv a slobôd.
 > (2) Z dôvodov hodných osobitného zreteľa možno ústavnú sťažnosť podľa odseku 1 neodmietnuť.
 
@@ -319,7 +319,7 @@ Ustanovenie zakotvuje zásadu subsidiarity ústavnej sťažnosti, ktorá je jedn
 
 ### § 133
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd ústavnej sťažnosti vyhovie, v náleze uvedie, ktoré základné práva a slobody boli porušené, ktoré ustanovenia ústavy, ústavného zákona alebo medzinárodnej zmluvy boli porušené a akým právoplatným rozhodnutím, opatrením alebo iným zásahom boli porušené základné práva a slobody.
 > (2) Ústavný súd zruší rozhodnutie alebo opatrenie, ktorým boli porušené základné práva a slobody sťažovateľa. Ústavný súd zruší aj iný zásah, ktorým boli porušené základné práva a slobody sťažovateľa, ak to pripúšťa povaha zásahu.
 > (3) Ak ústavný súd ústavnej sťažnosti vyhovie, môže
@@ -333,7 +333,7 @@ Ustanovenie upravuje obligatórny a fakultatívny obsah vyhovujúceho nálezu. O
 
 ### § 134
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd zruší právoplatné rozhodnutie, opatrenie alebo iný zásah a vec vráti na ďalšie konanie, ten, kto vo veci vydal rozhodnutie, rozhodol o opatrení alebo vykonal iný zásah, je povinný vec znova prerokovať a rozhodnúť. V tomto konaní alebo postupe je viazaný právnym názorom ústavného súdu.
 > (2) Ten, kto vo veci vydal rozhodnutie, rozhodol o opatrení alebo vykonal iný zásah, je viazaný rozhodnutím ústavného súdu podľa § 133 ods. 3 písm. a) až d); toto rozhodnutie ústavného súdu je vykonateľné doručením.
 
@@ -341,7 +341,7 @@ Ustanovenie upravuje záväznosť nálezu ústavného súdu vo vzťahu k orgánu
 
 ### § 135
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Primerané finančné zadosťučinenie
 > (1) Ak ústavný súd prizná sťažovateľovi primerané finančné zadosťučinenie, orgán verejnej moci, ktorý porušil základné práva a slobody sťažovateľa, je povinný sťažovateľovi priznané finančné zadosťučinenie zaplatiť do dvoch mesiacov od nadobudnutia právoplatnosti rozhodnutia ústavného súdu.
 > (2) Ak ten, komu bolo uložené zaplatiť sťažovateľovi finančné zadosťučinenie, v lehote ustanovenej v odseku 1 priznané finančné zadosťučinenie sťažovateľovi nezaplatí, zvyšuje sa finančné zadosťučinenie priznané ústavným súdom o 5 % za každý aj začatý rok omeškania až do jeho zaplatenia.
@@ -352,7 +352,7 @@ Primerané finančné zadosťučinenie predstavuje osobitný, majetkový prostri
 
 ### § 136
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie sťažnosti vo veciach územnej samosprávy
 > (1) Sťažnosť proti neústavnému alebo nezákonnému rozhodnutiu alebo inému neústavnému alebo nezákonnému zásahu do veci územnej samosprávy podľa čl. 127a ústavy (ďalej len „sťažnosť vo veciach územnej samosprávy“) môže podať orgán územnej samosprávy, ktorý tvrdí, že neústavným alebo nezákonným rozhodnutím alebo iným neústavným alebo nezákonným zásahom sa zasiahlo do veci územnej samosprávy.
 > (2) Na účely tohto zákona sa vecou územnej samosprávy rozumie najmä právomoc a pôsobnosť obce a samosprávneho kraja, ako aj princípy samosprávy.
@@ -361,7 +361,7 @@ Konanie o sťažnosti vo veciach územnej samosprávy podľa čl. 127a ústavy j
 
 ### § 137
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sťažnosť vo veciach územnej samosprávy
 > (1) Sťažnosť vo veciach územnej samosprávy okrem všeobecných náležitostí návrhu na začatie konania podľa § 43 musí obsahovať
 > a) označenie veci územnej samosprávy, do ktorej sa podľa orgánu územnej samosprávy, ktorý podal sťažnosť vo veciach územnej samosprávy, zasiahlo,
@@ -373,7 +373,7 @@ Osobitné náležitosti sťažnosti sú koncepčne paralelné s náležitosťami
 
 ### § 138
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie sťažnosti vo veciach územnej samosprávy
 > Sťažnosť vo veciach územnej samosprávy možno podať do dvoch mesiacov od nadobudnutia právoplatnosti rozhodnutia alebo upovedomenia o inom zásahu do veci územnej samosprávy. Táto lehota sa pri inom zásahu počíta odo dňa, keď sa orgán územnej samosprávy o tomto zásahu mohol dozvedieť. Ak bol vo veci podaný mimoriadny opravný prostriedok, lehota na podanie sťažnosti vo veciach územnej samosprávy vo vzťahu k rozhodnutiu, ktoré bolo mimoriadnym opravným prostriedkom napadnuté, začína plynúť od doručenia rozhodnutia o mimoriadnom opravnom prostriedku.
 
@@ -383,21 +383,21 @@ Lehota na podanie sťažnosti vo veciach územnej samosprávy je zhodná (dva me
 
 ### § 139
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníkmi konania sú sťažovateľ a ten orgán verejnej moci, proti ktorému sťažnosť vo veciach územnej samosprávy smeruje.
 
 Rovnako ako pri ústavnej sťažnosti (§ 125) je okruh účastníkov dvojstranný – sťažovateľ (orgán územnej samosprávy) a orgán verejnej moci, ktorého akt sa napáda. Táto štruktúra zabezpečuje kontradiktórnosť konania medzi subjektom domáhajúcim sa ochrany samosprávnej pôsobnosti a subjektom, ktorému je zásah do tejto pôsobnosti pripisovaný, pričom presné určenie účastníka má opäť význam pre doručovanie a pre subjekt zaviazaný z prípadného vyhovujúceho nálezu.
 
 ### § 140
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ak ústavný súd na predbežnom prerokovaní prijme sťažnosť vo veciach územnej samosprávy na ďalšie konanie (§ 56 ods. 5) a povaha veci to vyžaduje, môže upovedomiť o podanej sťažnosti vo veciach územnej samosprávy osobu, ktorá je alebo bola účastníkom konania pred orgánom verejnej moci, v ktorom bolo vydané právoplatné rozhodnutie alebo vykonaný iný neústavný alebo nezákonný zásah, ktorým malo dôjsť k zásahu do veci územnej samosprávy, ak by rozhodnutím ústavného súdu o sťažnosti vo veciach územnej samosprávy mohlo byť právne postavenie tejto osoby priamo dotknuté. Táto osoba má postavenie zúčastnenej osoby a má právo vyjadriť sa k sťažnosti v lehote určenej ústavným súdom.
 
 Inštitút zúčastnenej osoby sa uplatňuje aj v konaní o sťažnosti vo veciach územnej samosprávy, avšak s podstatným rozdielom oproti § 126 – zapojenie zúčastnenej osoby tu nie je automatické pri prijatí sťažnosti na ďalšie konanie, ale je fakultatívne, závislé od uváženia súdu, „ak povaha veci to vyžaduje“, a podmienené tým, že rozhodnutím môže byť priamo dotknuté právne postavenie danej osoby (typicky účastníka pôvodného konania pred orgánom verejnej moci). Táto väčšia miera diskrécie zodpovedá rôznorodosti prípadov, ktoré môžu pod pojem zásahu do veci územnej samosprávy spadať – nie vždy totiž existuje tretia osoba, ktorej postavenie by mohlo byť priamo dotknuté. Ak sú podmienky splnené, priznané procesné právo zúčastnenej osoby (vyjadriť sa v určenej lehote) je zhodné s úpravou pri ústavnej sťažnosti.
 
 ### § 141
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Späťvzatie sťažnosti vo veciach územnej samosprávy
 > Ak orgán územnej samosprávy vezme svoju sťažnosť vo veciach územnej samosprávy späť, ústavný súd konanie o nej uznesením zastaví.
 
@@ -407,7 +407,7 @@ Podobne ako pri ústavnej sťažnosti (§ 127) je späťvzatie sťažnosti vo ve
 
 ### § 142
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Sťažnosť vo veciach územnej samosprávy je neprípustná, ak o ochrane pred namietaným rozhodnutím alebo iným zásahom do veci územnej samosprávy je príslušný rozhodovať iný súd alebo ak orgán územnej samosprávy, ktorý podal sťažnosť vo veciach územnej samosprávy, nevyčerpal právne prostriedky, ktoré mu zákon na ochranu pred namietaným rozhodnutím alebo iným zásahom do veci územnej samosprávy priznáva.
 > (2) Z dôvodov hodných osobitného zreteľa možno sťažnosť vo veciach územnej samosprávy podľa odseku 1 neodmietnuť.
 
@@ -415,7 +415,7 @@ Zásada subsidiarity, ktorá je určujúca pre konanie o ústavnej sťažnosti (
 
 ### § 143
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd sťažnosti vo veciach územnej samosprávy vyhovie, v náleze vysloví, v čom spočíva neústavnosť alebo nezákonnosť rozhodnutia alebo iného zásahu do veci územnej samosprávy, ktoré ustanovenie ústavy, ústavného zákona alebo zákona bolo porušené a akým právoplatným rozhodnutím alebo zásahom k porušeniu došlo.
 > (2) Ak sa do vecí územnej samosprávy zasiahlo rozhodnutím, ústavný súd toto rozhodnutie zruší. Ak je to potrebné, ústavný súd môže rozhodnúť o vrátení veci na ďalšie konanie.
 > (3) Ak ústavný súd zruší právoplatné rozhodnutie a vec vráti na ďalšie konanie, ten, kto vo veci vydal rozhodnutie, je povinný vec znovu prerokovať a rozhodnúť. V tomto konaní je viazaný právnym názorom ústavného súdu.
@@ -425,7 +425,7 @@ Zásada subsidiarity, ktorá je určujúca pre konanie o ústavnej sťažnosti (
 
 ### § 144
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Na konanie o sťažnosti orgánu územnej samosprávy sa primerane vzťahujú ustanovenia § 128 až 131.
 
 Legislatívno-technický odkaz zabezpečuje, že aj v konaní o sťažnosti vo veciach územnej samosprávy sa primerane uplatnia inštitúty vylúčenia odkladného účinku podania sťažnosti, odkladu vykonateľnosti, dočasného opatrenia a ich zániku, upravené pôvodne pre konanie o ústavnej sťažnosti. Ide o ďalší príklad legislatívnej ekonómie, ktorý zjednocuje procesný režim predbežnej ochrany naprieč viacerými typmi konaní pred ústavným súdom bez potreby doslovného opakovania totožnej úpravy; slovo „primerane“ zároveň signalizuje, že aplikácia týchto ustanovení sa má prispôsobiť špecifikám konania o sťažnosti vo veciach územnej samosprávy (napr. namiesto sťažovateľa – fyzickej alebo právnickej osoby – bude subjektom oprávneným žiadať odklad vykonateľnosti alebo dočasné opatrenie orgán územnej samosprávy).
@@ -434,14 +434,14 @@ Legislatívno-technický odkaz zabezpečuje, že aj v konaní o sťažnosti vo v
 
 ### § 145
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd podáva výklad ústavy alebo ústavných zákonov len vtedy, ak je vec sporná.
 
 Ustanovenie zakotvuje základnú materiálnu podmienku prípustnosti konania o výklade ústavy alebo ústavného zákona podľa čl. 128 ústavy – existenciu spornosti. Ústavný súd tak neposkytuje akademický, hypotetický alebo preventívny výklad ústavných noriem na žiadosť oprávnených subjektov bez ohľadu na existenciu skutočného výkladového sporu; jeho úlohou je autoritatívne rozhodnúť konkrétnu, reálne existujúcu nejasnosť alebo rozpor vo výklade konkrétneho ustanovenia. Táto podmienka funguje ako materiálny filter, ktorý má zabrániť zneužitiu tohto konania na obchádzanie iných typov konaní (najmä konania o súlade právnych predpisov) alebo na získavanie všeobecných právnych poradenstiev od ústavného súdu bez reálnej výkladovej potreby.
 
 ### § 146
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na začatie konania podľa čl. 128 ústavy o výklad ústavy alebo ústavného zákona môžu podať:
 > a) najmenej pätina poslancov národnej rady,
@@ -454,7 +454,7 @@ Okruh subjektov oprávnených žiadať autoritatívny výklad ústavy je zámern
 
 ### § 147
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania
 > Návrh na začatie konania o výklad ústavy alebo ústavného zákona musí okrem všeobecných náležitostí podľa § 43 obsahovať údaj o tom,
 > a) ktorú časť ústavy alebo ktoré z jej ustanovení, ktorý ústavný zákon, ktorú jeho časť alebo ktoré z jeho ustanovení má ústavný súd vyložiť,
@@ -465,7 +465,7 @@ Osobitné náležitosti návrhu slúžia k presnému vymedzeniu predmetu žiadan
 
 ### § 148
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkom konania je okrem navrhovateľa aj iný orgán verejnej moci, o ktorom navrhovateľ tvrdí, že ústavu alebo ústavný zákon nesprávne vykladá.
 
@@ -473,7 +473,7 @@ Okruh účastníkov nadväzuje na náležitosť návrhu podľa § 147 písm. c) 
 
 ### § 149
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Späťvzatie návrhu na začatie konania
 > Návrh na začatie konania o výklad ústavy alebo ústavných zákonov môže navrhovateľ vziať späť iba so súhlasom ústavného súdu. Ak navrhovateľ vezme svoj návrh na začatie konania späť a ústavný súd so späťvzatím návrhu súhlasí, uznesením konanie zastaví.
 
@@ -481,7 +481,7 @@ Rovnako ako pri kompetenčných sporoch (§ 113) a sporoch o kontrolnú pôsobno
 
 ### § 150
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vyhlasovanie nálezu
 > (1) Výroková časť, odôvodnenie a poučenie o právnych účinkoch nálezu ústavného súdu v konaní o výklade ústavy alebo ústavného zákona sa spolu so znením pripojených odlišných stanovísk vyhlási v zbierke zákonov. Plénum ústavného súdu rozhodne, ktorá časť odôvodnenia nálezu, z ktorej je zrejmé, aký je právny názor ústavného súdu a aké dôvody ho k nemu viedli, sa vyhlási v zbierke zákonov.
 > (2) Nález ústavného súdu je právoplatný a všeobecne záväzný odo dňa jeho vyhlásenia v zbierke zákonov.
@@ -492,7 +492,7 @@ Spôsob publikácie nálezu je zhodný s modelom uplatňovaným pri iných typoc
 
 ### § 151
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie sťažnosti
 > Sťažnosť podľa čl. 129 ods. 1 ústavy môže podať poslanec národnej rady, ktorý namieta overenie mandátu iného poslanca, a osoba, ktorá tvrdí, že jej mandát poslanca národnej rady mal byť overený.
 
@@ -500,7 +500,7 @@ Toto konanie predstavuje súdnu kontrolu vnútroparlamentného rozhodovacieho ak
 
 ### § 152
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sťažnosť
 > Sťažnosť podľa čl. 129 ods. 1 ústavy musí obsahovať všeobecné náležitosti návrhu na začatie konania podľa § 43. Ku sťažnosti podľa čl. 129 ods. 1 ústavy sa pripojí uznesenie národnej rady o overení alebo neoverení mandátu.
 
@@ -508,7 +508,7 @@ Na rozdiel od väčšiny predchádzajúcich typov konaní zákon tu nestanovuje 
 
 ### § 153
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie sťažnosti
 > Sťažnosť podľa čl. 129 ods. 1 ústavy možno podať do desiatich dní od prijatia uznesenia o overení alebo neoverení mandátu poslanca národnej rady.
 
@@ -516,7 +516,7 @@ Desaťdňová lehota je výrazne kratšia než dvojmesačná lehota pri ústavne
 
 ### § 154
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Okrem sťažovateľa je účastníkom konania národná rada. Ak sa sťažnosťou podľa čl. 129 ods. 1 ústavy namieta overenie mandátu iného poslanca, je účastníkom konania aj dotknutý poslanec národnej rady.
 
@@ -524,7 +524,7 @@ Základným druhým účastníkom konania je vždy národná rada ako orgán, kt
 
 ### § 155
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodnutie
 > Ústavný súd sťažnosti podľa čl. 129 ods. 1 ústavy nevyhovie, ak je uznesenie národnej rady vecne správne, alebo ho zruší a vec vráti národnej rade na ďalšie konanie. Národná rada je v ďalšom konaní viazaná právnym názorom ústavného súdu.
 
@@ -534,14 +534,14 @@ Rozhodnutie ústavného súdu je binárne – buď sťažnosti nevyhovie (ak zis
 
 ### § 156
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účelom konania vo volebných veciach je napraviť prípadnú neústavnosť alebo nezákonnosť napadnutých volieb, a tým zabezpečiť slobodnú súťaž politických síl.
 
 Úvodné ustanovenie k tejto hlave má deklaratórny, účelový charakter a plní dôležitú interpretačnú funkciu – vymedzuje telos celého súboru ustanovení upravujúcich konanie vo volebných veciach, ktorý má slúžiť ako výkladové vodidlo pri aplikácii nasledujúcich konkrétnych ustanovení. Zdôrazňuje sa dvojaký cieľ: nápravný (odstránenie neústavnosti alebo nezákonnosti konkrétnych volieb) a systémový (zabezpečenie slobodnej súťaže politických síl ako ústavnej hodnoty demokratického právneho štátu podľa čl. 2 ods. 1 a čl. 31 ústavy). Tento účel je relevantný najmä pri posudzovaní otázky, či zistené porušenie ústavnosti alebo zákonnosti volieb malo alebo mohlo mať vplyv na výsledok volieb (relevancia vady) – čo je štandardným kritériom v judikatúre volebného súdnictva, hoci sa v tomto úvodnom ustanovení výslovne neuvádza.
 
 ### § 157
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > (1) Návrh na začatie konania podľa čl. 129 ods. 2 ústavy o ústavnosti a zákonnosti volieb prezidenta môžu podať:
 > a) kandidát na funkciu prezidenta, ktorý nebol zvolený, ak získal aspoň 5 % platných hlasov,
@@ -554,7 +554,7 @@ Zákon diferencuje okruh oprávnených navrhovateľov podľa typu napadnutých v
 
 ### § 158
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania
 > Návrh na začatie konania vo volebných veciach musí okrem všeobecných náležitostí podľa § 43 obsahovať
 > a) vyjadrenie navrhovateľa o tom, či napáda voľby ako celok, alebo len v určitom volebnom obvode,
@@ -567,7 +567,7 @@ Kvalifikované náležitosti návrhu vo volebných veciach sú koncipované mimo
 
 ### § 159
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie návrhu na začatie konania
 > Návrh na začatie konania vo volebných veciach možno podať do desiatich dní po vyhlásení výsledku volieb.
 
@@ -575,7 +575,7 @@ Krátka desaťdňová lehota zodpovedá potrebe rýchleho vyjasnenia platnosti v
 
 ### § 160
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú navrhovateľ a v konaní o ústavnosti alebo zákonnosti volieb
 > a) prezidenta kandidát, ktorý bol v napadnutých voľbách zvolený za prezidenta,
@@ -585,7 +585,7 @@ Okruh účastníkov je vymedzený tak, aby zahŕňal subjekty priamo dotknuté p
 
 ### § 161
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dokazovanie
 > (1) Ústavný súd si vyžiada všetky volebné dokumenty, ak je to potrebné, a vykoná úkony potrebné na dosiahnutie účelu konania. Ak ústavný súd otvorí zapečatenú volebnú dokumentáciu, umožní účastníkom konania a predsedovi príslušnej volebnej komisie, aby boli prítomní pri jej otvorení.
 > (2) O otvorení zapečatenej volebnej dokumentácie sa spíše zápisnica, ktorú podpíšu prítomné osoby, medzi ktorými musí byť sudca spravodajca.
@@ -598,14 +598,14 @@ Ustanovenie upravuje osobitný dokazovací režim prispôsobený špecifikám vo
 
 ### § 162
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd rozhodne o návrhu na začatie konania podľa čl. 129 ods. 2 ústavy o ústavnosti a zákonnosti volieb do 90 dní od doručenia návrhu.
 
 Deväťdesiatdňová lehota na rozhodnutie je dlhšia než pri iných naliehavých typoch konaní (napr. 60 dní pri súlade predmetu referenda podľa § 106), čo zohľadňuje typicky náročnejšie dokazovanie vo volebných veciach (preskúmavanie rozsiahlej volebnej dokumentácie, prípadné výsluchy svedkov). Ide o poriadkovú lehotu plynúcu od doručenia návrhu ústavnému súdu, ktorej nedodržanie samo osebe nezakladá neplatnosť neskôr vydaného rozhodnutia, predstavuje však záväzný interný štandard rýchlosti rozhodovania zohľadňujúci verejný záujem na čo najrýchlejšom vyjasnení platnosti volieb.
 
 ### § 163
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústavný súd môže
 > a) vyhlásiť voľby za neplatné,
 > b) zrušiť napadnutý výsledok volieb,
@@ -621,7 +621,7 @@ Odsek 1 ponúka ústavnému súdu škálu štyroch alternatívnych výrokov, med
 
 ### § 164
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie sťažnosti
 > Sťažnosť proti výsledku referenda podľa čl. 129 ods. 3 ústavy môžu podať:
 > a) najmenej pätina poslancov národnej rady,
@@ -634,7 +634,7 @@ Okruh subjektov oprávnených napadnúť výsledok už uskutočneného referenda
 
 ### § 165
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie sťažnosti
 > Sťažnosť proti výsledku referenda možno podať do desiatich dní od zverejnenia výsledku referenda.
 
@@ -642,7 +642,7 @@ Krátka desaťdňová prekluzívna lehota, plynúca od zverejnenia (nie individu
 
 ### § 166
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dokazovanie
 > (1) Ústavný súd si vyžiada všetky doklady o hlasovaní, ak je to potrebné, a vykoná úkony potrebné na preskúmanie ústavnosti alebo zákonnosti priebehu referenda. Ak ústavný súd otvorí zapečatenú dokumentáciu o hlasovaní, umožní navrhovateľovi a predsedovi príslušnej volebnej komisie, aby boli prítomní pri jej otvorení.
 > (2) O otvorení zapečatenej dokumentácie sa spíše zápisnica, ktorú podpíšu prítomné osoby, medzi ktorými musí byť sudca spravodajca.
@@ -654,7 +654,7 @@ Dokazovací režim je koncepčne totožný s režimom upraveným pre volebné ve
 
 ### § 167
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústavný súd rozhodne o sťažnosti proti výsledku referenda podľa čl. 129 ods. 3 ústavy do 60 dní od doručenia sťažnosti.
 > (2) Ak ústavný súd zistí, že porušenie ústavy alebo zákona mohlo ovplyvniť výsledok referenda, vyhlási referendum za neplatné.
 > (3) Ak ústavný súd zistí, že skutočný výsledok referenda bol iný, zruší zápisnicu Štátnej komisie pre voľby a kontrolu financovania politických strán o výsledku referenda a vyhlási výsledok referenda.
@@ -664,7 +664,7 @@ Odsek 1 stanovuje šesťdesiatdňovú poriadkovú lehotu na rozhodnutie. Odseky 
 
 ### § 168
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Nález ústavného súdu sa doručuje navrhovateľovi.
 > (2) Výroková časť, odôvodnenie a poučenie o právnych účinkoch nálezu ústavného súdu v konaní o sťažnosti proti výsledku referenda sa spolu so znením pripojených odlišných stanovísk vyhlási v zbierke zákonov a prostredníctvom Tlačovej agentúry Slovenskej republiky (ďalej len „tlačová agentúra“). Plénum ústavného súdu rozhodne, ktorá časť odôvodnenia nálezu, z ktorej je zrejmé, aký je právny názor ústavného súdu a aké dôvody ho k nemu viedli, sa vyhlási v zbierke zákonov.
 > (3) Nález ústavného súdu je právoplatný odo dňa jeho vyhlásenia v zbierke zákonov.
@@ -675,7 +675,7 @@ Odsek 1 upravuje doručovanie nálezu navrhovateľovi (a implicitne aj ďalším
 
 ### § 169
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie sťažnosti
 > Sťažnosť proti výsledku ľudového hlasovania môžu podať:
 > a) prezident, o ktorého odvolaní sa uskutočnilo ľudové hlasovanie,
@@ -685,7 +685,7 @@ Odsek 1 upravuje doručovanie nálezu navrhovateľovi (a implicitne aj ďalším
 
 ### § 170
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie sťažnosti
 > Sťažnosť proti výsledku ľudového hlasovania možno podať do desiatich dní od vyhlásenia výsledku ľudového hlasovania.
 
@@ -693,7 +693,7 @@ Rovnako ako pri iných typoch volebných a referendových sporov je stanovená k
 
 ### § 171
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú sťažovateľ, prezident, o ktorého odvolaní sa uskutočnilo ľudové hlasovanie, ak nie je sťažovateľom, a národná rada.
 
@@ -701,7 +701,7 @@ Okruh účastníkov zahŕňa vždy sťažovateľa, prezidenta (pokiaľ práve on
 
 ### § 172
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dokazovanie
 > (1) Ústavný súd si vyžiada všetky doklady o ľudovom hlasovaní, ak je to potrebné, a vykoná úkony potrebné na preskúmanie jeho ústavnosti alebo zákonnosti. Ak ústavný súd otvorí zapečatenú dokumentáciu o hlasovaní, umožní účastníkom konania a predsedovi príslušnej volebnej komisie, aby boli prítomní pri jej otvorení.
 > (2) O otvorení zapečatenej dokumentácie sa spíše zápisnica, ktorú podpíšu prítomné osoby, medzi ktorými musí byť sudca spravodajca.
@@ -713,14 +713,14 @@ Dokazovací režim opäť kopíruje osvedčený model z volebných vecí (§ 161
 
 ### § 173
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > O sťažnosti proti výsledku ľudového hlasovania rozhodne ústavný súd do 30 dní od jej doručenia.
 
 Tridsaťdňová lehota na rozhodnutie je najkratšia spomedzi lehôt stanovených pre jednotlivé typy hlasovacích a volebných sporov v tejto kapitole (porovnaj 60 dní pri referende podľa § 167 ods. 1 a 90 dní pri voľbách podľa § 162), čo odzrkadľuje mimoriadnu naliehavosť vyjasnenia otázky zotrvania alebo odvolania prezidenta vo funkcii – ide o situáciu bezprostredne sa dotýkajúcu kontinuity výkonu najvyššej výkonnej funkcie v štáte, ktorá neznesie dlhodobú právnu neistotu.
 
 ### § 174
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd zistí, že porušenie ústavy alebo zákona mohlo ovplyvniť výsledok ľudového hlasovania, vyhlási hlasovanie za neplatné.
 > (2) Ak ústavný súd zistí, že skutočný výsledok ľudového hlasovania bol iný, zruší zápisnicu ústrednej komisie pre hlasovanie a vyhlási výsledok hlasovania.
 > (3) Ak ústavný súd nezistí skutočnosti podľa odseku 1 alebo odseku 2, sťažnosti nevyhovie.
@@ -729,7 +729,7 @@ Tridsaťdňová lehota na rozhodnutie je najkratšia spomedzi lehôt stanovenýc
 
 ### § 175
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Nález ústavného súdu sa doručuje účastníkom konania.
 > (2) Výroková časť, odôvodnenie a poučenie o právnych účinkoch nálezu ústavného súdu v konaní o sťažnosti proti výsledku ľudového hlasovania sa spolu so znením pripojených odlišných stanovísk vyhlási v zbierke zákonov a prostredníctvom tlačovej agentúry. Plénum ústavného súdu rozhodne, ktorá časť odôvodnenia nálezu, z ktorej je zrejmé, aký je právny názor ústavného súdu a aké dôvody ho k nemu viedli, sa vyhlási v zbierke zákonov.
 > (3) Nález ústavného súdu je právoplatný odo dňa jeho vyhlásenia v zbierke zákonov.
@@ -740,7 +740,7 @@ Doručovanie a publikácia nálezu sú koncipované analogicky k § 168, opäť 
 
 ### § 176
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na vyhlásenie rozhodnutia podľa čl. 105 ods. 2 ústavy, že funkcia prezidenta sa uvoľnila, môžu podať:
 > a) najmenej pätina poslancov národnej rady,
@@ -751,7 +751,7 @@ Toto konanie rieši mimoriadnu ústavnú situáciu, keď prezident republiky zo 
 
 ### § 177
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú navrhovateľ a prezident.
 
@@ -759,7 +759,7 @@ Toto konanie rieši mimoriadnu ústavnú situáciu, keď prezident republiky zo 
 
 ### § 178
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Dokazovanie
 > Ústavný súd si môže vyžiadať všetky doklady, ktoré považuje za potrebné na rozhodnutie, či prezident nemôže vykonávať svoju funkciu. Ústavný súd má právo aj na sprístupnenie údajov zo zdravotnej dokumentácie prezidenta, na vyhlásenie uvoľnenia funkcie ktorého bol podaný návrh.
 
@@ -767,7 +767,7 @@ Ustanovenie priznáva ústavnému súdu mimoriadne rozsiahle dokazovacie oprávn
 
 ### § 179
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodnutie
 > (1) Výroková časť, odôvodnenie a poučenie o právnych účinkoch nálezu ústavného súdu v konaní o uvoľnení funkcie prezidenta sa spolu so znením pripojených odlišných stanovísk vyhlási v zbierke zákonov a prostredníctvom tlačovej agentúry. Plénum ústavného súdu rozhodne, ktorá časť odôvodnenia nálezu, z ktorej je zrejmé, aký je právny názor ústavného súdu a aké dôvody ho k nemu viedli, sa vyhlási v zbierke zákonov.
 > (2) Nález o uvoľnení funkcie prezidenta je právoplatný odo dňa jeho vyhlásenia v zbierke zákonov.
@@ -779,7 +779,7 @@ Publikačný režim (odsek 1) opäť kombinuje zbierku zákonov a tlačovú agen
 
 ### § 180
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na preskúmanie rozhodnutia o rozpustení alebo pozastavení činnosti politickej strany alebo politického hnutia podľa čl. 129 ods. 4 ústavy môže podať politická strana alebo politické hnutie, ktoré bolo rozpustené alebo ktorého činnosť bola pozastavená, alebo generálny prokurátor.
 
@@ -787,7 +787,7 @@ Konanie predstavuje súdnu ochranu politických strán a hnutí pred neoprávnen
 
 ### § 181
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania
 > Návrh na začatie konania má odkladný účinok; ústavný súd bezodkladne oznámi ministerstvu vnútra doručenie návrhu na začatie konania.
 
@@ -795,7 +795,7 @@ Na rozdiel od všeobecného pravidla vylúčenia odkladného účinku pri ústav
 
 ### § 182
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkom konania je orgán verejnej moci, ktorý rozhodol o rozpustení alebo o pozastavení činnosti politickej strany alebo politického hnutia v poslednom stupni, politická strana alebo politické hnutie, ktoré bolo rozpustené alebo ktorého činnosť bola pozastavená, a generálny prokurátor.
 
@@ -803,7 +803,7 @@ Okruh účastníkov zahŕňa všetky tri kľúčové subjekty tohto typu sporu �
 
 ### § 183
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodovanie
 > V konaní o rozpustení alebo pozastavení činnosti politickej strany alebo politického hnutia sa primerane použijú ustanovenia šiestej hlavy piatej časti tohto zákona.
 
@@ -811,7 +811,7 @@ Zákonodarca opäť volí legislatívno-technickú metódu odkazu na primerané 
 
 ### § 184
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Doručovanie
 > Rozhodnutie ústavného súdu sa doručuje účastníkom konania a ministerstvu vnútra.
 
@@ -821,7 +821,7 @@ Popri štandardnom doručovaní účastníkom konania zákon osobitne vyžaduje 
 
 ### § 185
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie obžaloby
 > Obžalobu proti prezidentovi za úmyselné porušenie ústavy alebo vlastizradu podľa čl. 129 ods. 5 ústavy môže podať národná rada.
 
@@ -829,7 +829,7 @@ Konanie o obžalobe proti prezidentovi predstavuje ústavnú obdobu trestného (
 
 ### § 186
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania podľa čl. 129 ods. 5 ústavy sú národná rada a prezident.
 
@@ -839,7 +839,7 @@ Jednoduchá dvojstranná štruktúra účastníctva odzrkadľuje samotnú podsta
 
 ### § 187
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Použitie ustanovení iných predpisov
 > (1) Pri rozhodovaní o obžalobe národnej rady proti prezidentovi za vlastizradu je ústavný súd viazaný Trestným zákonom, len ak ide o posúdenie naplnenia znakov skutkovej podstaty trestného činu vlastizrady podľa § 311 Trestného zákona.
 > (2) V konaní o obžalobe proti prezidentovi sa primerane použijú ustanovenia Trestného poriadku.
@@ -848,7 +848,7 @@ Ustanovenie rieši previazanosť tohto špecifického ústavného konania s Tres
 
 ### § 188
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Odsudzujúci rozsudok ústavného súdu znamená podľa čl. 107 ústavy stratu funkcie prezidenta a stratu spôsobilosti túto funkciu opätovne získať.
 
 Ustanovenie stanovuje priamy a mimoriadne prísny právny následok kladného (odsudzujúceho) rozhodnutia ústavného súdu – nejde len o stratu aktuálne vykonávanej funkcie, ale aj o trvalú stratu spôsobilosti túto funkciu niekedy v budúcnosti opätovne nadobudnúť. Terminológia „rozsudok“ (namiesto štandardného „nález“ používaného pri iných typoch konaní pred ústavným súdom) zdôrazňuje kvázi-trestný charakter tohto rozhodnutia, čo koreluje s primeraným použitím Trestného poriadku podľa § 187 ods. 2. Ide o najzávažnejší možný ústavnoprávny dôsledok v celej sústave konaní pred ústavným súdom, ktorý reflektuje výnimočnosť situácie, keď hlava štátu úmyselne poruší ústavu alebo sa dopustí vlastizrady – najzávažnejších deliktov, aké môže prezident v súvislosti s výkonom svojej funkcie spáchať.
@@ -857,7 +857,7 @@ Ustanovenie stanovuje priamy a mimoriadne prísny právny následok kladného (o
 
 ### § 189
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na začatie konania podľa čl. 129 ods. 6 ústavy o súlade rozhodnutia o vyhlásení výnimočného stavu alebo núdzového stavu a ďalších na neho nadväzujúcich rozhodnutí s ústavou alebo ústavným zákonom môžu podať:
 > a) najmenej pätina poslancov národnej rady,
@@ -870,7 +870,7 @@ Konanie predstavuje mimoriadne dôležitý ústavný nástroj kontroly nad rozho
 
 ### § 190
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrhom na začatie konania podľa čl. 129 ods. 6 ústavy o súlade rozhodnutia o vyhlásení výnimočného stavu alebo núdzového stavu a ďalších na neho nadväzujúcich rozhodnutí s ústavou alebo ústavným zákonom možno napadnúť
 > a) rozhodnutie o vyhlásení výnimočného stavu,
 > b) rozhodnutie o predĺžení výnimočného stavu,
@@ -884,14 +884,14 @@ Ustanovenie taxatívne vymedzuje okruh napadnuteľných aktov, ktorý zahŕňa n
 
 ### § 191
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na začatie konania musí smerovať proti orgánu verejnej moci, ktorý vydal napadnuté rozhodnutie.
 
 Ustanovenie stanovuje formálnu požiadavku presnej identifikácie žalovaného orgánu, ktorý napadnuté rozhodnutie o výnimočnom alebo núdzovom stave (či nadväzujúce rozhodnutie) vydal – táto požiadavka je nevyhnutná vzhľadom na skutočnosť, že rôzne akty v tejto oblasti môžu vydávať odlišné orgány (napríklad vláda pri núdzovom stave, prezident na návrh vlády pri výnimočnom stave), a presné určenie žalovaného orgánu je predpokladom správneho vymedzenia okruhu účastníkov konania podľa § 194.
 
 ### § 192
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrh na začatie konania musí okrem všeobecných náležitostí podľa § 43 obsahovať
 > a) vymedzenie napadnutého rozhodnutia,
 > b) dôvody, pre ktoré navrhovateľ považuje napadnuté rozhodnutie za odporujúce ústave alebo ústavnému zákonu.
@@ -901,7 +901,7 @@ Osobitné náležitosti návrhu (odsek 1) sú pomerne stručné – vyžadujú p
 
 ### § 193
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie návrhu na začatie konania
 > Návrh na začatie konania možno podať do piatich dní od
 > a) vyhlásenia výnimočného stavu alebo núdzového stavu, ak sa napáda rozhodnutie o vyhlásení výnimočného stavu alebo núdzového stavu,
@@ -913,7 +913,7 @@ Päťdňová lehota je najkratšou lehotou v celej kapitole, čo je odôvodnené
 
 ### § 194
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú navrhovateľ a ten orgán verejnej moci, ktorý vydal napadnuté rozhodnutie. Vláda, ak nie je navrhovateľom, má postavenie zúčastnenej osoby.
 
@@ -923,14 +923,14 @@ Okruh účastníkov zahŕňa navrhovateľa a orgán, ktorý napadnuté rozhodnut
 
 ### § 195
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd rozhodne do 10 dní od doručenia návrhu na začatie konania.
 
 Desaťdňová lehota na rozhodnutie, spolu s päťdňovou lehotou na podanie návrhu (§ 193), tvorí najrýchlejší procesný cyklus v celej kapitole, čo zodpovedá už spomínanej mimoriadnej naliehavosti súdnej kontroly krízových opatrení – ústavný súd musí byť schopný reagovať prakticky bezodkladne, aby jeho rozhodnutie malo reálny praktický význam počas trvania krízového stavu, ktorý môže sám osebe trvať iba obmedzenú dobu.
 
 ### § 196
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd dospeje k záveru, že napadnuté rozhodnutie je v súlade s ústavou alebo ústavným zákonom, vysloví tento súlad nálezom.
 > (2) Ak ústavný súd dospeje k záveru, že napadnuté rozhodnutie nie je v súlade s ústavou alebo ústavným zákonom, vysloví tento nesúlad nálezom, v ktorom uvedie, s ktorými ustanoveniami ústavy alebo ústavného zákona nie je napadnuté rozhodnutie v súlade a napadnuté rozhodnutie zruší.
 
@@ -938,7 +938,7 @@ Rozhodovacia štruktúra je opäť binárna, analogicky k iným typom kontroly s
 
 ### § 197
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Rozhodnutie sa doručuje účastníkom konania a predsedovi národnej rady.
 > (2) Výroková časť nálezu sa spolu s informáciou o pripojenom odlišnom stanovisku vyhlási prostredníctvom tlačovej agentúry.
 
@@ -948,7 +948,7 @@ Odsek 1 rozširuje okruh adresátov doručenia rozhodnutia aj o predsedu národn
 
 ### § 206
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd začne konanie vo veci podľa čl. 129a ústavy bez návrhu, konanie sa začína dňom vyhlásenia uznesenia prijatého národnou radou podľa čl. 86 písm. i) ústavy v zbierke zákonov.
 
 Toto konanie je mimoriadnou výnimkou zo zásady dispozičnosti, ktorá inak ovláda takmer celé konanie pred ústavným súdom (§ 41 ods. 1) – ústavný súd tu koná ex offo, bez potreby akéhokoľvek návrhu, čo je jedna z mála výnimiek uvedených už v § 41 ods. 1. Ide o osobitný typ automatického, obligatórneho preskúmania uznesenia národnej rady o zrušení amnestie alebo individuálnej milosti podľa čl. 86 písm. i) ústavy (inštitút zavedený v súvislosti so zrušením tzv. Mečiarových amnestií). Automatické začatie konania samotným faktom vyhlásenia takéhoto uznesenia v zbierke zákonov zdôrazňuje mimoriadny verejný záujem na súdnej kontrole tohto výnimočného zásahu zákonodarcu do inak nezrušiteľných individuálnych aktov milosti, ktorý má bezprostredný dosah na trestnoprávnu sféru dotknutých osôb.
@@ -957,14 +957,14 @@ Toto konanie je mimoriadnou výnimkou zo zásady dispozičnosti, ktorá inak ovl
 
 ### § 207
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníkom konania je národná rada.
 
 Vzhľadom na to, že konanie sa začína ex offo bez návrhu, je logické, že jediným formálnym účastníkom konania je národná rada ako orgán, ktorý sporné uznesenie o zrušení amnestie alebo individuálnej milosti prijal – nejde tu teda o štandardnú dvojstrannú (sporovú) štruktúru konania, ale o osobitný typ objektívnej, abstraktnej kontroly ústavnosti tohto jedinečného legislatívneho aktu.
 
 ### § 208
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Vláda zastúpená ministerstvom spravodlivosti má postavenie zúčastnenej osoby, ak sa koná o uznesení, ktorým sa zrušila amnestia.
 > (2) Prezident má postavenie zúčastnenej osoby, ak sa koná o uznesení, ktorým sa zrušila individuálna milosť.
 
@@ -972,7 +972,7 @@ Zákon diferencuje postavenie zúčastnenej osoby podľa toho, ktorý typ aktu m
 
 ### § 209
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Vyžiadanie stanovísk
 > Pred rozhodnutím vo veci samej si predseda ústavného súdu vyžiada
 > a) stanovisko národnej rady a záznam z rozpravy na jej schôdzi k uzneseniu prijatému národnou radou podľa čl. 86 písm. i) ústavy,
@@ -985,28 +985,28 @@ Ustanovenie ukladá predsedovi ústavného súdu obligatórnu povinnosť vyžiad
 
 ### § 210
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Plénum ústavného súdu rozhoduje vo veci samej nálezom. Nález sa doručuje národnej rade a vláde, ak ide o amnestiu, a prezidentovi, ak ide o individuálnu milosť. Predseda ústavného súdu môže rozhodnúť, že nález sa doručí aj ďalším osobám.
 
 Ustanovenie výslovne zveruje rozhodovanie vo veci samej plénu (nie senátu) ústavného súdu, čo zodpovedá mimoriadnej závažnosti a precedenčnému významu tohto typu konania. Okruh adresátov doručenia nálezu kopíruje diferenciáciu podľa typu zrušeného aktu zavedenú v § 208 (vláda pri amnestii, prezident pri individuálnej milosti), doplnenú o vždy prítomného adresáta – národnú radu. Zákon zároveň priznáva predsedovi ústavného súdu diskrečnú právomoc rozhodnúť o doručení nálezu aj ďalším, zákonom výslovne neurčeným osobám – táto flexibilita je dôležitá najmä vzhľadom na to, že nález v tomto type konania môže mať bezprostredný dosah na konkrétne osoby dotknuté (znovu)obnovenou trestnoprávnou zodpovednosťou v dôsledku zrušenia amnestie alebo individuálnej milosti.
 
 ### § 211
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd rozhodne o súlade uznesenia národnej rady o zrušení amnestie alebo individuálnej milosti alebo jeho časti do 60 dní odo dňa začatia konania; ak ústavný súd v tejto lehote nerozhodne alebo ak sa ústavný súd neuznesie nadpolovičnou väčšinou hlasov všetkých sudcov ústavného súdu, konanie sa zastaví.
 
 Ustanovenie stanovuje šesťdesiatdňovú lehotu na rozhodnutie, ktorá je však na rozdiel od väčšiny ostatných lehôt v tejto kapitole spojená s mimoriadne prísnym následkom jej nedodržania – kým inde ide typicky o poriadkové lehoty bez priamej procesnej sankcie, tu márne uplynutie lehoty (rovnako ako nedosiahnutie kvalifikovanej nadpolovičnej väčšiny hlasov všetkých sudcov, nielen prítomných) vedie priamo k zastaveniu konania. Táto konštrukcia výrazne posilňuje procesnú istotu vo vzťahu k platnosti zrušujúceho uznesenia – ak ústavný súd v stanovenej lehote a kvalifikovanou väčšinou nevysloví jeho nesúlad s ústavou, uznesenie zostáva nedotknuté, čo zodpovedá zvýšenej opatrnosti zákonodarcu pri nastavovaní podmienok na spochybnenie tohto výnimočného legislatívneho zásahu do trestnoprávnej sféry.
 
 ### § 212
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodnutie ústavného súdu o zastavení konania alebo o zamietnutí veci (§ 8 ods. 5) vytvára prekážku veci rozhodnutej, ktorá vylučuje ďalší prieskum uznesenia národnej rady o zrušení amnestie alebo individuálnej milosti ústavným súdom.
 
 Ustanovenie zakotvuje účinok materiálnej právoplatnosti (prekážku veci rozhodnutej, res iudicata) aj vo vzťahu k procesným rozhodnutiam o zastavení konania alebo zamietnutí veci, nielen vo vzťahu k meritórnym nálezom – čo je významná odchýlka od všeobecných zásad, keďže procesné rozhodnutia spravidla prekážku veci rozhodnutej nevytvárajú. Táto úprava definitívne uzatvára možnosť opätovného súdneho prieskumu toho istého uznesenia o zrušení amnestie alebo milosti bez ohľadu na dôvod, pre ktorý predchádzajúce konanie neviedlo k vysloveniu nesúladu, čím sa posilňuje právna istota o (ne)platnosti zrušujúceho uznesenia a zabraňuje sa opakovanému spochybňovaniu tejto citlivej otázky.
 
 ### § 213
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Na konanie o súlade uznesenia národnej rady prijatého podľa čl. 86 písm. i) ústavy sa primerane použijú ustanovenia § 74 až 93.
 
 Záverečný odkaz na primerané použitie ustanovení upravujúcich konanie o súlade právnych predpisov (§ 74 až § 93, hlava tretej časti zákona týkajúca sa abstraktnej kontroly normatívnych aktov) potvrdzuje, že zákonodarca vníma povahu uznesenia národnej rady o zrušení amnestie alebo individuálnej milosti ako svojím spôsobom obdobnú normatívnemu aktu podliehajúcemu abstraktnej kontrole ústavnosti, hoci ide vecne o jedinečný, historicky a politicky motivovaný inštitút. Primerané použitie všeobecnej úpravy konania o súlade právnych predpisov (napr. pravidiel dokazovania, hlasovania, formulácie výroku) dopĺňa špecifickú úpravu tejto hlavy tam, kde táto vlastnú úpravu neobsahuje.
@@ -1015,14 +1015,14 @@ Záverečný odkaz na primerané použitie ustanovení upravujúcich konanie o s
 
 ### § 214
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Právoplatné rozhodnutie ústavného súdu možno za podmienok ustanovených týmto zákonom napadnúť návrhom na obnovu konania pred ústavným súdom, ak rozhodnutím orgánu medzinárodnej organizácie vznikne Slovenskej republike povinnosť v konaní pred ústavným súdom znovu preskúmať už prijaté rozhodnutie ústavného súdu. Ustanovenie § 55 písm. c) sa v tomto prípade nepoužije.
 
 Inštitút obnovy konania predstavuje mimoriadny opravný prostriedok, ktorý prelamuje inak absolútnu právoplatnosť a konečnosť rozhodnutí ústavného súdu, a to výlučne v prípade, keď táto povinnosť opätovného preskúmania vyplýva Slovenskej republike z rozhodnutia orgánu medzinárodnej organizácie (typicky Európskeho súdu pre ľudské práva, ktorý môže konštatovať porušenie Dohovoru o ochrane ľudských práv a základných slobôd aj vo vzťahu k rozhodnutiu ústavného súdu). Ide o zásadný prelom zásady prekážky veci právoplatne rozhodnutej, ktorý zákon výslovne umožňuje druhou vetou vylúčením aplikácie § 55 písm. c) (prekážky res iudicata) na tento špecifický prípad – týmto sa zabezpečuje súlad vnútroštátneho ústavného súdnictva s medzinárodnoprávnymi záväzkami Slovenskej republiky v oblasti ochrany ľudských práv.
 
 ### § 215
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na obnovu konania
 > Návrh na obnovu konania pred ústavným súdom je oprávnený podať ten, kto bol vo veci uvedenej v § 214 účastníkom konania pred ústavným súdom a v koho prospech orgán medzinárodnej organizácie rozhodol.
 
@@ -1030,7 +1030,7 @@ Aktívna legitimácia na podanie návrhu na obnovu konania je vymedzená kumulat
 
 ### § 216
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na obnovu konania
 > Návrh na obnovu konania pred ústavným súdom podľa čl. 133 ústavy musí okrem všeobecných náležitostí návrhu na začatie konania podľa § 43 obsahovať označenie
 > a) rozhodnutia ústavného súdu, proti ktorému smeruje,
@@ -1040,7 +1040,7 @@ Osobitné náležitosti návrhu vyžadujú presnú identifikáciu oboch relevant
 
 ### § 217
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie návrhu na obnovu konania
 > Návrh na obnovu konania pred ústavným súdom možno podať do šiestich mesiacov odo dňa, keď sa rozhodnutie orgánu medzinárodnej organizácie stalo konečným, alebo od toho času, keď návrh na obnovu konania pred ústavným súdom mohol byť uplatnený.
 
@@ -1048,7 +1048,7 @@ Osobitné náležitosti návrhu vyžadujú presnú identifikáciu oboch relevant
 
 ### § 218
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania o návrhu na obnovu konania sú navrhovateľ a ďalší účastníci konania pred ústavným súdom, ktorého obnova je navrhovaná.
 

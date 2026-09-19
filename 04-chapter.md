@@ -2,7 +2,7 @@
 
 ### § 219
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) O návrhu na obnovu konania, ktorý smeruje proti rozhodnutiu pléna ústavného súdu, rozhoduje plénum ústavného súdu.
 > (2) O návrhu na obnovu konania, ktorý smeruje proti rozhodnutiu senátu ústavného súdu, rozhoduje iný senát ústavného súdu.
 
@@ -10,7 +10,7 @@ Ustanovenie upravuje funkčnú príslušnosť na rozhodovanie o návrhu na obnov
 
 ### § 220
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak ústavný súd zistí, že z rozhodnutia orgánu medzinárodnej organizácie nevyplýva povinnosť opätovného preskúmania napadnutého rozhodnutia ústavného súdu, návrh na obnovu konania ako zjavne neopodstatnený uznesením odmietne.
 > (2) Ak ústavný súd zistí, že z rozhodnutia orgánu medzinárodnej organizácie vyplýva povinnosť opätovného preskúmania napadnutého rozhodnutia ústavného súdu, svojím nálezom obnovu konania povolí a napadnuté rozhodnutie ústavného súdu zruší. Ústavný súd môže zrušiť aj ďalšie rozhodnutia ústavného súdu vydané v pôvodnom konaní, ak to vyplýva z právneho názoru vysloveného v rozhodnutí orgánu medzinárodnej organizácie a je to potrebné na dosiahnutie účelu obnovy konania.
 > (3) Ak na základe návrhu na obnovu konania ústavný súd obnovu konania povolí, znovu prerokuje pôvodný návrh na začatie konania podľa príslušných ustanovení tohto zákona, pričom vychádza z právneho názoru vysloveného v rozhodnutí orgánu medzinárodnej organizácie.
@@ -23,7 +23,7 @@ Ustanovenie konkretizuje meritórne kritériá rozhodovania o návrhu na obnovu 
 
 ### § 221
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie disciplinárneho konania
 > Návrh na začatie disciplinárneho konania podľa čl. 136 ods. 3 ústavy voči predsedovi najvyššieho súdu, predsedovi najvyššieho správneho súdu, podpredsedovi najvyššieho súdu alebo podpredsedovi najvyššieho správneho súdu môže podať prezident alebo subjekty oprávnené podať návrh na začatie disciplinárneho konania podľa osobitného predpisu.11)
 
@@ -31,7 +31,7 @@ Ustanovenie vymedzuje osobitnú právomoc ústavného súdu rozhodovať v prvom 
 
 ### § 222
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Lehota na podanie návrhu na začatie disciplinárneho konania
 > Lehotu na podanie návrhu na začatie disciplinárneho konania upravuje osobitný predpis.12)
 
@@ -39,7 +39,7 @@ Na rozdiel od väčšiny konaní pred ústavným súdom, kde tento zákon sám s
 
 ### § 223
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Použitie ustanovení iných predpisov
 > Na disciplinárne konanie voči predsedovi najvyššieho súdu, predsedovi najvyššieho správneho súdu, podpredsedovi najvyššieho súdu alebo podpredsedovi najvyššieho správneho súdu sa primerane použijú ustanovenia osobitného predpisu o disciplinárnej zodpovednosti sudcov upravujúce rozsah disciplinárnej zodpovednosti sudcu, disciplinárne previnenie, disciplinárne opatrenie, zánik disciplinárnej zodpovednosti sudcu, prerušenie disciplinárneho konania a rozhodnutie disciplinárneho senátu.
 
@@ -47,14 +47,14 @@ Ustanovenie rozširuje subsidiárnu aplikáciu osobitného predpisu o disciplin�
 
 ### § 224
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > O návrhu na začatie disciplinárneho konania rozhodne ústavný súd uznesením.
 
 Ustanovenie určuje formu rozhodnutia, ktorým ústavný súd rozhoduje v disciplinárnej veci – uznesenie, nie nález. Táto voľba formy koreluje so všeobecnou systematikou zákona, podľa ktorej sa nálezom rozhoduje spravidla vo veciach výkonu právomoci ústavného súdu podľa čl. 125 a nasl. ústavy o posudzovaní súladu, zatiaľ čo uznesením sa rozhoduje o väčšine ostatných procesných a niektorých meritórnych otázok. Zákon zároveň nerozlišuje medzi rôznymi možnými výrokmi (vyhovenie alebo zamietnutie návrhu, uloženie konkrétneho disciplinárneho opatrenia) – tie sa určujú podľa primerane použitých ustanovení osobitného predpisu o disciplinárnej zodpovednosti sudcov v zmysle § 223, avšak vždy vo forme uznesenia ústavného súdu.
 
 ### § 225
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Uznesenie ústavného súdu nadobúda právoplatnosť dňom, v ktorom ústavný súd rozhodol o návrhu na začatie disciplinárneho konania. Písomné vyhotovenie uznesenia ústavného súdu musí byť dotknutej osobe doručené bezodkladne.
 
 Ustanovenie upravuje okamih právoplatnosti disciplinárneho uznesenia a povinnosť jeho bezodkladného doručenia dotknutej osobe. Na rozdiel od bežnej štruktúry súdneho rozhodovania, kde právoplatnosť nastáva až márnym uplynutím lehoty na opravný prostriedok alebo rozhodnutím o ňom, tu právoplatnosť nastáva už samotným okamihom rozhodnutia ústavného súdu – čo je logickým dôsledkom skutočnosti, že ide o rozhodnutie orgánu, proti ktorému v tejto veci nie je opravný prostriedok prípustný (ústavný súd tu rozhoduje ako jediná a konečná inštancia). Povinnosť bezodkladného doručenia písomného vyhotovenia uznesenia dotknutej osobe je dôležitou procesnou zárukou – aj keď rozhodnutie nadobúda právoplatnosť už dňom vydania, dotknutá osoba musí byť o jeho obsahu a dôvodoch čo najskôr upovedomená, najmä s ohľadom na prípadné dôsledky pre výkon jej funkcie a na jej právo na informácie o veci, ktorá sa jej osobne a citlivo dotýka.
@@ -63,14 +63,14 @@ Ustanovenie upravuje okamih právoplatnosti disciplinárneho uznesenia a povinno
 
 ### § 230
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zákony a iné právne predpisy vydané v Českej a Slovenskej Federatívnej Republike, ktoré sú v rozpore s ústavou, strácajú účinnosť dňom vyhlásenia nálezu ústavného súdu v zbierke zákonov; ich neplatnosť nastáva deväťdesiatym dňom po vyhlásení nálezu ústavného súdu v zbierke zákonov.
 
 Táto hlava upravuje osobitný, historicky podmienený typ konania týkajúci sa preskúmavania zákonov a iných právnych predpisov vydaných ešte v období existencie Českej a Slovenskej Federatívnej Republiky (do 31. decembra 1992), ktoré zostali súčasťou právneho poriadku Slovenskej republiky aj po jej vzniku, avšak sú v rozpore s (novou) ústavou Slovenskej republiky. Ide teda o osobitnú formu následnej kontroly noriem s väzbou na diskontinuitu právnych poriadkov spôsobenú zánikom federácie. Ustanovenie preberá konštrukciu známu z konania o súlade právnych predpisov (odklad neplatnosti od účinnosti) – predpis stráca účinnosť už dňom vyhlásenia nálezu v zbierke zákonov, no jeho neplatnosť (teda úplné odstránenie z právneho poriadku so spätnými účinkami na použiteľnosť) nastáva až po uplynutí deväťdesiatdňovej legisvakančnej lehoty. Táto odložená neplatnosť dáva zákonodarcovi priestor na prípadnú nahradzujúcu úpravu a zabraňuje vzniku medzery v právnej regulácii bezprostredne po vyhlásení nálezu.
 
 ### § 231
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na začatie konania
 > Návrh na začatie konania podľa čl. 152 ods. 2 a 3 ústavy o neplatnosti právnych predpisov môžu podať:
 > a) najmenej pätina poslancov národnej rady,
@@ -84,7 +84,7 @@ Okruh oprávnených navrhovateľov v konaní o neplatnosti federálnych právnyc
 
 ### § 232
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú navrhovateľ a orgán verejnej moci oprávnený na zmenu alebo zrušenie napadnutého právneho predpisu.
 
@@ -92,7 +92,7 @@ Vymedzenie okruhu účastníkov kopíruje logiku bežného konania o súlade pr�
 
 ### § 233
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodovanie
 > Na konanie o neplatnosti právnych predpisov sa primerane použijú ustanovenia druhej hlavy piatej časti tohto zákona.
 
@@ -104,7 +104,7 @@ Ustanovenie zabezpečuje procesnú hospodárnosť legislatívnej techniky odkazo
 
 ### § 234
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústavný súd preskúma, či rozhodnutie orgánu verejnej moci príslušného na konanie a rozhodovanie vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov (ďalej len „príslušný orgán verejnej moci“) je v súlade s ústavou a príslušnými právnymi prepismi vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov.
 > (2) Ústavný súd prihliadne iba na tie pochybenia príslušného orgánu verejnej moci, ktoré znamenali porušenie navrhovateľových základných práv a slobôd.
 
@@ -112,7 +112,7 @@ Táto hlava upravuje osobitný typ konania, v ktorom ústavný súd vystupuje ak
 
 ### § 235
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Procesná legitimácia na podanie návrhu na preskúmanie rozhodnutia
 > Návrh na preskúmanie rozhodnutia podľa § 234 môže podať verejný funkcionár, ktorého sa týka rozhodnutie príslušného orgánu verejnej moci.
 
@@ -120,7 +120,7 @@ Aktívna legitimácia je vymedzená úzko a výlučne – návrh môže podať i
 
 ### § 236
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Návrh na preskúmanie rozhodnutia
 > (1) K návrhu na preskúmanie rozhodnutia sa pripojí napadnuté rozhodnutie príslušného orgánu verejnej moci.
 > (2) Podanie návrhu na preskúmanie rozhodnutia vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov má odkladný účinok.
@@ -129,7 +129,7 @@ Odsek 1 stanovuje osobitnú kvalifikovanú náležitosť návrhu nad rámec vše
 
 ### § 237
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci
 > Účastníkmi konania sú navrhovateľ a príslušný orgán verejnej moci.
 
@@ -139,14 +139,14 @@ Okruh účastníkov je vymedzený jednoducho a zodpovedá dvojstrannej (kontradi
 
 ### § 238
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd rozhodne o návrhu podľa § 234 do 60 dní od doručenia návrhu na neverejnom zasadnutí.
 
 Zákon stanovuje pomerne krátku šesťdesiatdňovú lehotu na rozhodnutie, čo zodpovedá naliehavosti veci – verejný funkcionár je počas trvania konania v neistote o svojom postavení (hoci s odkladným účinkom podľa § 236 ods. 2), a dlhodobé pretrvávanie tejto neistoty by bolo v rozpore s požiadavkou na primeranú rýchlosť konania dotýkajúceho sa výkonu verejnej funkcie. Rozhodovanie prebieha na neverejnom zasadnutí, čo je odchýlka od zásady verejnosti prejednávania niektorých iných typov vecí a odráža čiastočne aj osobnostný, individuálny charakter posudzovanej veci, hoci samotné rozhodnutie (nález alebo uznesenie) sa následne sprístupňuje v súlade so všeobecnou úpravou zverejňovania rozhodnutí ústavného súdu.
 
 ### § 239
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ústavný súd rozhodnutie príslušného orgánu verejnej moci uznesením potvrdí, ak zistí, že je v súlade s ústavou a príslušnými právnymi prepismi vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov.
 > (2) Ústavný súd nálezom zruší rozhodnutie príslušného orgánu verejnej moci a vec mu vráti na ďalšie konanie, ak zistí, že
 > a) rozhodnutie nie je v súlade s ústavou alebo príslušnými právnymi prepismi vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov,
@@ -158,7 +158,7 @@ Ustanovenie upravuje binárnu štruktúru meritórneho rozhodnutia s dôslednou 
 
 ### § 240
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodnutie ústavného súdu je konečné. To neplatí, ak medzinárodná zmluva, ktorou je Slovenská republiky viazaná, ustanovuje možnosť pre verejného funkcionára obrátiť sa na orgán medzinárodnej organizácie so žiadosťou o preskúmanie rozhodnutia, ktorým bola vyslovená strata mandátu alebo verejnej funkcie, a ak sa verejný funkcionár obráti na tento orgán medzinárodnej organizácie so žiadosťou o preskúmanie takého rozhodnutia, považuje sa také rozhodnutie o strate mandátu alebo verejnej funkcie za právoplatné a vykonateľné až vtedy, keď ho tento orgán medzinárodnej organizácie potvrdí.
 
 Prvá veta zakotvuje zásadu konečnosti rozhodnutia ústavného súdu v tomto type konania – proti nemu neexistuje žiadny ďalší vnútroštátny opravný prostriedok. Druhá veta však vytvára dôležitú výnimku inšpirovanú (obdobne ako pri obnove konania podľa § 219 a § 220) väzbou na medzinárodné záväzky Slovenskej republiky: ak medzinárodná zmluva umožňuje verejnému funkcionárovi obrátiť sa na orgán medzinárodnej organizácie so žiadosťou o preskúmanie rozhodnutia o strate mandátu alebo funkcie, a funkcionár túto možnosť využije, rozhodnutie o strate mandátu alebo funkcie sa nepovažuje za právoplatné a vykonateľné, kým ho medzinárodný orgán nepotvrdí. Ide o mimoriadne významný inštitút odkladu vykonateľnosti (nie formálnej právoplatnosti rozhodnutia ako takej, ale jeho reálnych účinkov), ktorý chráni verejného funkcionára pred nezvratnou stratou mandátu skôr, než sa vyčerpá medzinárodný mechanizmus preskúmania, na ktorý sa Slovenská republika zmluvne zaviazala. Táto konštrukcia zohľadňuje mimoriadnu závažnosť zásahu, akým je strata verejnej (najmä volenej) funkcie, a zabraňuje vzniku nezvratného stavu pred definitívnym vyriešením veci na medzinárodnej úrovni.
@@ -167,7 +167,7 @@ Prvá veta zakotvuje zásadu konečnosti rozhodnutia ústavného súdu v tomto t
 
 ### § 241
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Subjekt, ktorému príslušný orgán verejnej moci uložil pokutu za nesplnenie zákonnej povinnosti vo veci ochrany verejného záujmu a zamedzenia rozporu záujmov, môže podať ústavnému súdu návrh na preskúmanie rozhodnutia o uložení pokuty do 15 dní od doručenia rozhodnutia.
 > (2) Podanie návrhu na preskúmanie rozhodnutia príslušného orgánu verejnej moci o uložení pokuty má odkladný účinok.
 > (3) Ak ústavný súd po preskúmaní zistí, že návrh nie je dôvodný, uznesením mu nevyhovie.
@@ -183,7 +183,7 @@ Tento druhý diel upravuje samostatný, od preskúmania rozhodnutia vo veci samo
 
 ### § 242
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Zakazujú sa zhromaždenia v okruhu 100 metrov od budov ústavného súdu a od miest, kde ústavný súd pravidelne pojednáva.
 > (2) Zakazuje sa činnosť bezpilotného lietadla v priestore nad budovami ústavného súdu, nad budovami kancelárie ústavného súdu a nad miestami, kde ústavný súd pravidelne pojednáva alebo zasadá do výšky 120 m nad úrovňou zeme.
 > (3) Zákaz podľa odseku 2 sa nevzťahuje na činnosti vykonávané s písomným súhlasom vedúceho kancelárie ústavného súdu a na činnosti uskutočňované lietadlami podľa osobitného predpisu.13)
@@ -194,7 +194,7 @@ Tento druhý diel upravuje samostatný, od preskúmania rozhodnutia vo veci samo
 
 ### § 243
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Podrobnosti o organizácii ústavného súdu a o konaní pred ním upravuje spravovací a rokovací poriadok ústavného súdu, ktorý schvaľuje plénum ústavného súdu a ktorý sa vyhlasuje v zbierke zákonov.
 > (2) Plénum ústavného súdu prijíma rozvrh práce ústavného súdu a rozhoduje o jeho zmenách a dodatkoch. Rozvrh práce ústavného súdu obsahuje najmä zloženie senátov ústavného súdu s uvedením predsedu senátu ústavného súdu a ďalších členov senátu ústavného súdu, určenie príslušnosti senátov ústavného súdu na prerokovanie veci, určenie príslušnosti senátov ústavného súdu pri rozhodovaní o vylúčení sudcu ústavného súdu, určenie spôsobu dočasného zastúpenia neprítomného alebo vylúčeného predsedu senátu ústavného súdu alebo člena senátu ústavného súdu, určenie spôsobu náhodného prideľovania vecí v pléne ústavného súdu a v senátoch ústavného súdu a určenie pojednávacích dní pléna ústavného súdu a senátov ústavného súdu. Rozvrh práce ústavného súdu, jeho zmeny a dodatky sa zverejňujú na webovom sídle ústavného súdu.
 
@@ -202,14 +202,14 @@ Ustanovenie zveruje podrobnejšiu úpravu organizácie ústavného súdu a konan
 
 ### § 244
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Za vysokoškolské právnické vzdelanie druhého stupňa sa na účely tohto zákona považuje vysokoškolské vzdelanie druhého stupňa v študijnom odbore právo na právnickej fakulte vysokej školy v Slovenskej republike alebo uznaný doklad o vysokoškolskom právnickom vzdelaní druhého stupňa vydaný zahraničnou vysokou školou; ak bolo vysokoškolské vzdelanie získané najprv v prvom stupni a následne v druhom stupni, vyžaduje sa, aby išlo v oboch stupňoch o vzdelanie v študijnom odbore právo.
 
 Ide o legálnu definíciu kvalifikačného predpokladu vysokoškolského právnického vzdelania druhého stupňa, ktorý zákon vyžaduje na viacerých miestach (napríklad ako predpoklad na vymenovanie za sudcu ústavného súdu podľa § 8, prípadne pre iné funkcie viazané na právnické vzdelanie). Definícia zahŕňa jednak štandardné vzdelanie získané na právnickej fakulte vysokej školy v Slovenskej republike, jednak uznaný (nostrifikovaný) doklad o rovnocennom vzdelaní vydaný zahraničnou vysokou školou, čím sa rešpektuje aj kariérna dráha osôb, ktoré právnické vzdelanie nadobudli v zahraničí, za predpokladu formálneho uznania jeho rovnocennosti. Osobitne sa rieši situácia postupného vzdelávania v dvoch stupňoch (bakalárske a nadväzujúce magisterské štúdium) – zákon v takom prípade vyžaduje, aby oba stupne boli absolvované práve v študijnom odbore právo, čím sa vylučuje kombinácia, pri ktorej by osoba absolvovala prvý stupeň v inom odbore a až druhý stupeň v odbore právo (tzv. medziodborový prechod na magisterskom stupni), keďže také vzdelanie by nezodpovedalo požadovanej komplexnosti a systematickosti právnického vzdelania.
 
 ### § 245
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozpočet kancelárie ústavného súdu tvorí v štátnom rozpočte Slovenskej republiky samostatnú kapitolu.
 
 Ustanovenie zaraďuje kanceláriu ústavného súdu medzi samostatné rozpočtové kapitoly štátneho rozpočtu, čo je významnou zárukou finančnej (a tým aj inštitucionálnej) nezávislosti ústavného súdu od výkonnej moci. Samostatná rozpočtová kapitola znamená, že rozpočet kancelárie nie je súčasťou rozpočtovej kapitoly iného ústredného orgánu štátnej správy (napríklad ministerstva spravodlivosti), ale je prerokúvaný a schvaľovaný priamo v rámci štátneho rozpočtu ako samostatná položka, čo koreluje aj s pôsobnosťou pléna ústavného súdu schvaľovať návrh rozpočtu kancelárie pred jeho predložením do štátneho rozpočtu (porov. § 7 ods. 2 písm. b). Táto úprava zodpovedá postaveniu ústavného súdu ako nezávislého orgánu ochrany ústavnosti, ktorého fungovanie by nemalo byť rozpočtovo závislé od uváženia iného orgánu štátnej moci.
@@ -218,7 +218,7 @@ Ustanovenie zaraďuje kanceláriu ústavného súdu medzi samostatné rozpočtov
 
 ### § 246
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak nie je ďalej ustanovené inak, použije sa tento zákon aj na konania začaté do 28. februára 2019.
 > (2) Právne účinky úkonov, ktoré v konaní nastali do 28. februára 2019, zostávajú zachované.
 > (3) Na lehoty, ktoré dňom nadobudnutia účinnosti tohto zákona neuplynuli, sa použijú ustanovenia tohto zákona; ak však zákon doteraz ustanovoval lehotu dlhšiu, uplynie lehota až v tomto neskoršom čase.
@@ -227,7 +227,7 @@ Prechodné ustanovenia upravujú aplikáciu nového procesného rámca na konani
 
 ### § 247
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Ak plénum ústavného súdu nerozhodne inak, spravovací a rokovací poriadok ústavného súdu vydaný podľa zákona účinného do 28. februára 2019 ostáva v platnosti v rozsahu, v akom neodporuje tomuto zákonu, až do schválenia nového spravovacieho a rokovacieho poriadku plénom ústavného súdu podľa tohto zákona.
 > (2) Ak plénum ústavného súdu nerozhodne inak, rozvrh práce ústavného súdu vydaný podľa zákona účinného do 28. februára 2019 ostáva v platnosti v rozsahu, v akom neodporuje tomuto zákonu, až do schválenia nového rozvrhu práce ústavného súdu plénom ústavného súdu podľa tohto zákona.
 
@@ -235,14 +235,14 @@ Ustanovenie rieši kontinuitu vnútorných normatívnych nástrojov upravených 
 
 ### § 248
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ústavný súd ústavnú sťažnosť odmietne, ak už vo veci rozhodol v konaní o ústavnej sťažnosti, v konaní o podnete alebo v konaní o sťažnosti podľa zákona účinného do 28. februára 2019.
 
 Ustanovenie zabraňuje duplicitnému prejednávaniu tej istej veci pod novým procesným rámcom, ak už o nej ústavný súd meritórne rozhodol podľa predchádzajúcej právnej úpravy – či už v rámci (starého) konania o ústavnej sťažnosti, konania o podnete (inštitút, ktorý predchádzajúca úprava poznala a ktorý nová úprava už nepreberá v rovnakej podobe) alebo konania o sťažnosti. Ide o osobitný prejav zásady prekážky rozhodnutej veci (res iudicata) s výslovným prechodným presahom cez hranicu účinnosti nového zákona – bez tohto ustanovenia by mohla vzniknúť pochybnosť, či prekážka veci rozhodnutej podľa starého zákona bráni podaniu novej ústavnej sťažnosti v tej istej veci podľa nového zákona, keďže formálne ide o inú procesnú úpravu. Zákon túto pochybnosť odstraňuje jednoznačným príkazom odmietnutia takej opakovanej sťažnosti.
 
 ### § 249
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Kancelária ústavného súdu zriadená podľa zákona účinného do 14. novembra 2018 sa považuje za kanceláriu ústavného súdu podľa tohto zákona.
 > (2) Štátnozamestnanecké pomery a pracovné pomery zamestnancov kancelárie ústavného súdu, ktoré vznikli podľa predpisov účinných do 14. novembra 2018, ostávajú zachované.
 
@@ -250,7 +250,7 @@ Ustanovenie zabezpečuje inštitucionálnu a personálnu kontinuitu kancelárie 
 
 ### § 250
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Pracovný pomer sudcu ústavného súdu je od 1. marca 2019 osobitným právnym vzťahom k štátu podľa § 21 ods. 1.
 > (2) Ustanovenia § 26 sa vzťahujú aj na sudcu ústavného súdu, ktorý vykonával funkciu sudcu ústavného súdu do 28. februára 2019, ako aj na pozostalých tohto sudcu ústavného súdu.
 > (3) Príplatok k dôchodku pozostalých je od 1. marca 2019 príspevkom pozostalým.
@@ -259,7 +259,7 @@ Ustanovenie rieši prechod právneho vzťahu sudcov ústavného súdu na novú k
 
 ### § 250a
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Prechodné ustanovenia k úpravám účinným od 1. januára 2021
 > (1) Zloženie senátov sa podľa § 11 ods. 2 v znení účinnom od 1. januára 2021 prvýkrát obmení v rozvrhu práce na rok 2024.
 > (2) Ustanovenie § 49 ods. 3 v znení účinnom od 1. januára 2021 sa nevzťahuje na sudcov ústavného súdu vymenovaných do funkcie do 31. decembra 2020.
@@ -268,7 +268,7 @@ Toto ustanovenie bolo do zákona doplnené neskoršou novelou účinnou od 1. ja
 
 ### § 251
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zrušovacie ustanovenie
 > Zrušuje sa zákon Národnej rady Slovenskej republiky č. 38/1993 Z. z. o organizácii Ústavného súdu Slovenskej republiky, o konaní pred ním a o postavení jeho sudcov v znení zákona Národnej rady Slovenskej republiky č. 293/1995 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 398/1998 Z. z., zákona č. 97/1999 Z. z., zákona č. 226/2000 Z. z., zákona č. 124/2002 Z. z., zákona č. 514/2003 Z. z., zákona č. 551/2003 Z. z., zákona č. 324/2004 Z. z., zákona č. 586/2004 Z. z., zákona č. 546/2005 Z. z., zákona č. 94/2006 Z. z., zákona č. 122/2006 Z. z., zákona č. 71/2008 Z. z., zákona č. 520/2008 Z. z., zákona č. 400/2009 Z. z., zákona č. 102/2010 Z. z., zákona č. 33/2011 Z. z., zákona č. 79/2012 Z. z., zákona č. 114/2013 Z. z., zákona č. 402/2013 Z. z., zákona č. 195/2014 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 331/2014 Z. z., zákona č. 353/2014 Z. z., zákona č. 402/2015 Z. z., zákona č. 125/2016 Z. z., zákona č. 55/2017 Z. z., zákona č. 72/2017 Z. z. a zákona č. 314/2018 Z. z.
 

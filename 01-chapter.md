@@ -2,7 +2,7 @@
 
 ### § 1
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predmet úpravy
 >
 > Tento zákon upravuje organizáciu Ústavného súdu Slovenskej republiky (ďalej len „ústavný súd“), postavenie jeho sudcov, postavenie Kancelárie Ústavného súdu Slovenskej republiky (ďalej len „kancelária ústavného súdu“) a konanie pred ústavným súdom.
@@ -11,7 +11,7 @@
 
 ### § 2
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Postavenie a sídlo ústavného súdu
 >
 > (1) Ústavný súd je nezávislým súdnym orgánom ochrany ústavnosti.
@@ -22,7 +22,7 @@ Ustanovenie preberá a rozvíja čl. 124 ústavy, podľa ktorého je ústavný s
 
 ### § 3
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zloženie ústavného súdu
 >
 > (1) Ústavný súd sa skladá z 13 sudcov ústavného súdu, z ktorých jeden je predsedom ústavného súdu a jeden podpredsedom ústavného súdu.
@@ -33,7 +33,7 @@ Zákon preberá ústavou stanovený počet trinástich sudcov (čl. 134 ods. 1 �
 
 ### § 4
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Predseda ústavného súdu
 >
 > (1) Ústavný súd riadi predseda ústavného súdu.
@@ -53,7 +53,7 @@ Ustanovenie vymedzuje kompetencie predsedu ústavného súdu, ktoré majú tak r
 
 ### § 5
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podpredseda ústavného súdu
 >
 > (1) Podpredseda ústavného súdu dočasne vykonáva právomoci predsedu ústavného súdu, ak predseda ústavného súdu nie je vymenovaný.
@@ -66,7 +66,7 @@ Ustanovenie rozlišuje dva odlišné režimy pôsobenia podpredsedu vo vzťahu k
 
 ### § 6
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Rozhodovanie ústavného súdu
 >
 > (1) Ústavný súd rozhoduje v pléne alebo v senátoch.
@@ -77,7 +77,7 @@ Ustanovenie zakotvuje dvojkoľajný model rozhodovania ústavného súdu – ple
 
 ### § 7
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Plénum ústavného súdu
 >
 > (1) Ústavný súd rozhoduje v pléne
@@ -98,7 +98,7 @@ Ustanovenie taxatívne vymedzuje pôsobnosť pléna ústavného súdu, ktorá za
 
 ### § 8
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Plénum ústavného súdu sa skladá zo všetkých sudcov ústavného súdu.
 >
 > (2) Zasadnutie pléna ústavného súdu zvoláva, jeho program určuje a rokovanie vedie predseda ústavného súdu. Predseda ústavného súdu zvolá zasadnutie pléna ústavného súdu bezodkladne aj vtedy, ak o to požiada nadpolovičná väčšina sudcov ústavného súdu.
@@ -113,7 +113,7 @@ Ustanovenie upravuje zloženie a organizačno-procesné pravidlá fungovania pl�
 
 ### § 9
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Rokovanie pléna ústavného súdu je neverejné; ustanovenie odseku 2 tým nie je dotknuté.
 >
 > (2) Na rokovaní pléna ústavného súdu sa môžu zúčastniť zamestnanci kancelárie ústavného súdu a ďalšie osoby, ktorých prítomnosť je nevyhnutná z procesných dôvodov, ak ich na rokovanie pléna prizve predseda ústavného súdu alebo o tom rozhodne plénum ústavného súdu.
@@ -128,7 +128,7 @@ Ustanovenie podrobne upravuje priebeh rokovania pléna vrátane jeho verejnosti,
 
 ### § 10
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Senát ústavného súdu
 >
 > V senáte rozhoduje ústavný súd vo veciach, ktoré nepatria do pôsobnosti pléna ústavného súdu.
@@ -137,7 +137,7 @@ Ustanovenie formuluje pôsobnosť senátov negatívnym vymedzením – senáty r
 
 ### § 11
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Senát ústavného súdu sa skladá z troch sudcov ústavného súdu, z ktorých jeden je predsedom senátu ústavného súdu.
 >
 > (2) Zloženie senátov ústavného súdu a zastupovanie ich členov určuje na obdobie aspoň jedného roka plénum ústavného súdu v rozvrhu práce. Zmenu v zložení senátu ústavného súdu možno počas tohto obdobia vykonať, len ak sa zmení zloženie ústavného súdu.
@@ -156,14 +156,14 @@ Senát je trojčlenné teleso s vlastným predsedom volených spomedzi jeho čle
 
 ### § 12
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Na rokovanie senátu ústavného súdu sa použije § 9 rovnako.
 
 Legislatívnotechnické ustanovenie rozširuje procesné pravidlá upravujúce rokovanie a hlasovanie pléna (§ 9 – neverejnosť rokovania a porady, účasť ďalších osôb, priebeh porady vrátane referovania sudcu spravodajcu, poradie a spôsob hlasovania, riešenie situácie, keď žiaden návrh nezíska väčšinu) primerane aj na rokovanie senátu. Táto odkazová technika zamedzuje duplicitnej úprave totožných procesných otázok a zabezpečuje jednotný procesný režim vnútorného rokovania oboch rozhodovacích telies ústavného súdu, s prirodzenou úpravou vyplývajúcou z odlišného počtu členov (napríklad pri určovaní poradia hlasovania sa uplatní obdobná zásada služobného veku, avšak vzhľadom na trojčlenné zloženie senátu v redukovanom rozsahu).
 
 ### § 13
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zjednocovanie právnych názorov senátov ústavného súdu
 >
 > (1) Ak senát ústavného súdu v rámci svojej rozhodovacej činnosti dospeje k právnemu názoru odlišnému od právneho názoru vyjadreného už v rozhodnutí niektorého zo senátov ústavného súdu, sudca spravodajca predloží plénu ústavného súdu návrh na zjednotenie právnych názorov. Plénum ústavného súdu rozhodne o zjednotení právnych názorov uznesením. Senát ústavného súdu je v ďalšom konaní viazaný uznesením pléna ústavného súdu.
@@ -178,7 +178,7 @@ Ustanovenie zavádza mechanizmus zjednocovania judikatúry medzi jednotlivými s
 
 ### § 14
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Ustanovovanie sudcov ústavného súdu do funkcie
 >
 > (1) Ak čl. 134 ods. 2 ústavy neustanovuje inak, sudcov ústavného súdu vymenúva na návrh Národnej rady Slovenskej republiky (ďalej len „národná rada“) prezident.
@@ -193,7 +193,7 @@ Ustanovenie upravuje ústavou predpokladaný mechanizmus obsadzovania sudcovský
 
 ### § 15
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Návrhy na voľbu kandidátov na sudcov ústavného súdu môžu podať národnej rade
 > a) poslanci Národnej rady Slovenskej republiky (ďalej len „poslanci národnej rady“),
 > b) vláda Slovenskej republiky (ďalej len „vláda“),
@@ -224,14 +224,14 @@ Ustanovenie širokým okruhom oprávnených navrhovateľov (odsek 1) posilňuje 
 
 ### § 16
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sudca ústavného súdu skladá do rúk prezidenta sľub podľa čl. 134 ods. 4 ústavy. Odmietnutie zloženia sľubu alebo zloženie sľubu s výhradou má za následok zánik funkcie sudcu ústavného súdu. Zloženie sľubu potvrdí sudca ústavného súdu svojím podpisom na listine s textom sľubu; na tejto listine musí byť uvedený dátum zloženia sľubu.
 
 Ustanovenie upravuje formálny akt zloženia sľubu, ktorý má konštitutívny význam pre vznik funkcie sudcu ústavného súdu, keďže podľa § 14 ods. 4 práve dňom zloženia sľubu začína plynúť funkčné obdobie sudcu (vymenovanie prezidentom samo osebe funkciu ešte nezakladá). Sľub sa skladá do rúk prezidenta a jeho znenie je určené priamo v čl. 134 ods. 4 ústavy. Zákon výslovne rieši dôsledky vadného zloženia sľubu – odmietnutie zložiť sľub, ako aj jeho zloženie s výhradou (teda nie v doslovnom, ústavou predpísanom znení, prípadne s dodatočnou podmienkou či výhradou) majú za následok zánik funkcie sudcu ústavného súdu. Táto konštrukcia je prísna: nejde len o odklad vzniku funkcie, ale priamo o jej zánik, čo zdôrazňuje, že akt zloženia sľubu v ústavou predpísanej podobe je nevyhnutnou a bezpodmienečnou náležitosťou nadobudnutia sudcovskej funkcie, nie iba formalitou. Procesne sa zloženie sľubu potvrdzuje podpisom sudcu na listine obsahujúcej text sľubu spolu s uvedením dátumu, čo slúži ako jednoznačný dôkazný prostriedok o tom, kedy a či vôbec bol sľub riadne zložený, a teda kedy začalo plynúť funkčné obdobie sudcu.
 
 ### § 17
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zánik funkcie sudcu ústavného súdu
 >
 > (1) Sudcovi ústavného súdu zaniká jeho funkcia uplynutím funkčného obdobia, na ktoré bol vymenovaný.
@@ -248,14 +248,14 @@ Ustanovenie taxatívne vymedzuje dôvody zániku funkcie sudcu ústavného súdu
 
 ### § 18
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Sudca ústavného súdu sa môže svojej funkcie vzdať písomným oznámením predsedovi ústavného súdu. Jeho funkcia v takom prípade zaniká uplynutím kalendárneho mesiaca, v ktorom bolo písomné oznámenie o vzdaní sa funkcie doručené predsedovi ústavného súdu.
 
 Ustanovenie upravuje jeden z dôvodov predčasného zániku funkcie sudcu – vzdanie sa funkcie z vlastnej vôle sudcu. Zákon vyžaduje písomnú formu oznámenia adresovaného predsedovi ústavného súdu, pričom účinky zániku funkcie nenastávajú okamihom doručenia, ale až uplynutím celého kalendárneho mesiaca, v ktorom bolo oznámenie doručené. Táto konštrukcia poskytuje istú lehotu (od niekoľkých dní do takmer celého mesiaca, podľa dňa doručenia) na zabezpečenie plynulého prechodu agendy a prípadné administratívne úkony spojené so zánikom funkcie, pričom presne stanovený okamih (koniec kalendárneho mesiaca doručenia) vylučuje pochybnosti o tom, kedy funkcia sudcu skutočne zanikla. Na rozdiel od niektorých iných spôsobov zániku funkcie (napríklad odvolania podľa § 19) vzdanie sa funkcie nevyžaduje súčinnosť žiadneho iného orgánu – ide o jednostranný, adresovaný právny úkon sudcu, ktorého účinky nastupujú automaticky uplynutím zákonom stanovenej doby.
 
 ### § 19
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Prezident sudcu ústavného súdu odvolá
 > a) na základe právoplatného odsudzujúceho rozsudku za úmyselný trestný čin alebo ak bol sudca ústavného súdu právoplatne odsúdený za trestný čin a súd nerozhodol v jeho prípade o podmienečnom odložení výkonu trestu odňatia slobody,
 > b) na základe disciplinárneho rozhodnutia ústavného súdu za čin, ktorý je nezlučiteľný s výkonom funkcie sudcu ústavného súdu,
@@ -277,7 +277,7 @@ Ustanovenie upravuje odvolanie sudcu ústavného súdu z funkcie ako druhý pred
 
 ### § 20
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Postavenie sudcov ústavného súdu, ich práva a povinnosti
 >
 > (1) Sudca ústavného súdu nesmie vykonávať funkcie, zamestnania alebo činnosti, ktoré sú nezlučiteľné s funkciou verejného funkcionára.
@@ -290,7 +290,7 @@ Ustanovenie nadväzuje na ústavné vymedzenie nezlučiteľnosti funkcie sudcu �
 
 ### § 21
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Sudca ústavného súdu vykonáva funkciu sudcu ústavného súdu ako ústavný činiteľ v osobitnom právnom vzťahu k štátu, ktorý vzniká vymenovaním do funkcie sudcu ústavného súdu a zaniká dňom zániku jeho funkcie sudcu ústavného súdu.
 >
 > (2) Pracovný pomer, štátnozamestnanecký pomer, služobný pomer, osobitný vzťah sudcu k štátu alebo iný pracovnoprávny vzťah sudcu ústavného súdu k subjektu, s ktorým je pred zložením sľubu v pracovnom pomere, štátnozamestnaneckom pomere, služobnom pomere, osobitnom vzťahu sudcu so štátom alebo v inom pracovnoprávnom vzťahu, zostáva zachovaný.
@@ -299,7 +299,7 @@ Ustanovenie definuje právnu povahu vzťahu medzi sudcom ústavného súdu a št
 
 ### § 22
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Sudca ústavného súdu je povinný chrániť neporušiteľnosť prirodzených práv človeka, práv občana a princípy demokratického a právneho štátu.
 >
 > (2) Sudca ústavného súdu je pri výkone svojej funkcie nezávislý a pri rozhodovaní je viazaný ústavou, ústavnými zákonmi a medzinárodnými zmluvami, ktoré Slovenská republika ratifikovala a boli vyhlásené spôsobom ustanoveným zákonom.
@@ -313,7 +313,7 @@ Ustanovenie vymedzuje materiálny obsah sudcovskej nezávislosti a rozsah normat
 
 ### § 23
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Sudca ústavného súdu je povinný vykonávať svoju funkciu svedomite a zdržať sa pri jej výkone i v občianskom živote konania, ktoré môže narušiť alebo ohroziť vážnosť ústavného súdu, dôveru k ústavnému súdu a vážnosť funkcie sudcu ústavného súdu.
 >
 > (2) Sudca ústavného súdu je povinný zdržať sa výkonu funkcie, zamestnania alebo činnosti nezlučiteľnej s výkonom funkcie sudcu ústavného súdu (§ 20 ods. 1).
@@ -324,7 +324,7 @@ Ustanovenie ukladá sudcovi ústavného súdu tri okruhy povinností súvisiacic
 
 ### § 24
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Za rozhodovanie pri výkone funkcie nemožno sudcu ústavného súdu trestne alebo disciplinárne stíhať, a to ani po zániku jeho funkcie.
 >
 > (2) Ak bol sudca ústavného súdu pristihnutý a zadržaný pri páchaní trestného činu, generálny prokurátor je povinný to ihneď oznámiť predsedovi ústavného súdu, a ak ide o predsedu ústavného súdu, podpredsedovi ústavného súdu.
@@ -343,7 +343,7 @@ Ustanovenie upravuje sudcovskú imunitu, ktorá má dve zložky – imunitu za r
 
 ### § 25
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Platové pomery sudcov ústavného súdu ustanovuje osobitný predpis.2)
 >
 > (2) V čase, keď sudca ústavného súdu nevykonáva svoju funkciu z dôvodu, že bol pre chorobu alebo úraz uznaný za dočasne pracovne neschopného alebo mu bolo nariadené karanténne opatrenie, patria mu náhrady na úrovni platu vrátane ostatných náležitostí podľa osobitného predpisu,2) najdlhšie však počas šiestich mesiacov v kalendárnom roku.
@@ -354,7 +354,7 @@ Ustanovenie upravuje hmotné zabezpečenie sudcu ústavného súdu, pričom samo
 
 ### § 26
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Sudca ústavného súdu, ktorý svoju funkciu vykonával aspoň štyri roky, má nárok na príplatok za výkon funkcie sudcu ústavného súdu, ak
 > a) skončil výkon funkcie sudcu ústavného súdu okrem prípadu, ak prezident odvolal sudcu ústavného súdu podľa § 19 ods. 1 písm. a) alebo písm. b), a
 > b) má nárok na výplatu starobného dôchodku, predčasného starobného dôchodku alebo invalidného dôchodku.
@@ -380,7 +380,7 @@ Ustanovenie upravuje osobitný nárok bývalého sudcu ústavného súdu na tzv.
 
 ### § 27
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Disciplinárna zodpovednosť sudcov ústavného súdu
 >
 > (1) Sudca ústavného súdu sa dopustí disciplinárneho previnenia, ak zavinene poruší povinnosti, ktoré mu vyplývajú z funkcie sudcu ústavného súdu, alebo ak svojím správaním naruší alebo ohrozí vážnosť ústavného súdu, dôveru k ústavnému súdu alebo vážnosť funkcie sudcu ústavného súdu.
@@ -401,7 +401,7 @@ Ustanovenie vymedzuje skutkovú podstatu disciplinárneho previnenia sudcu ústa
 
 ### § 28
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Plénum ústavného súdu vypočuje sudcu ústavného súdu, proti ktorému návrh na začatie disciplinárneho konania smeruje. Dotknutému sudcovi ústavného súdu musí byť najneskôr pri vypočutí umožnené oboznámiť sa s návrhom na začatie disciplinárneho konania. Predseda ústavného súdu, vo veci v ktorej podal návrh na začatie disciplinárneho konania, a sudca ústavného súdu, proti ktorému návrh na začatie disciplinárneho konania smeruje, sa zúčastnia rokovania pléna ústavného súdu v tejto veci okrem porady a hlasovania pléna ústavného súdu.
 >
 > (2) Plénum ústavného súdu návrh na začatie disciplinárneho konania odmietne, ak zistí, že je zjavne neopodstatnený.
@@ -435,7 +435,7 @@ Ustanovenie podrobne upravuje priebeh disciplinárneho konania od predbežného 
 
 ### § 29
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Organizačné a personálne zabezpečenie činnosti ústavného súdu
 >
 > (1) Odbornú podporu a plnenie úloh spojených s organizačným, personálnym, ekonomickým, administratívnym a technickým zabezpečením činnosti ústavného súdu zabezpečuje kancelária ústavného súdu. Kancelária ústavného súdu je štátnou rozpočtovou organizáciou.
@@ -450,7 +450,7 @@ Ustanovenie otvára štvrtú časť zákona venovanú kancelárii ústavného s�
 
 ### § 30
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Na štátnych zamestnancov pri výkone štátnej služby v kancelárii ústavného súdu sa vzťahuje osobitný predpis,4) ak odsek 2 alebo odsek 3 neustanovujú inak.
 >
 > (2) Štátni zamestnanci, ktorí vykonávajú štátnu službu v kancelárii ústavného súdu, sú odmeňovaní podľa osobitného predpisu6) charakteristík platových tried štátneho zamestnanca v kancelárii ústavného súdu a platových taríf štátnych zamestnancov v kancelárii ústavného súdu. Charakteristiky platových tried štátneho zamestnanca v kancelárii ústavného súdu sú uvedené v prílohe č. 1. Platové tarify štátnych zamestnancov v kancelárii ústavného súdu sú uvedené v prílohe č. 2.
@@ -463,7 +463,7 @@ Ustanovenie upravuje pracovnoprávny a platový režim zamestnancov kancelárie 
 
 ### § 31
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Súdni poradcovia
 >
 > (1) Na ústavnom súde pôsobia súdni poradcovia. Súdni poradcovia môžu byť štátnymi zamestnancami v kancelárii ústavného súdu alebo môžu činnosť súdneho poradcu vykonávať na základe zmluvného vzťahu s kanceláriou ústavného súdu.
@@ -482,7 +482,7 @@ Ustanovenie zavádza a podrobne upravuje inštitút súdneho poradcu, ktorý pre
 
 ### § 32
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Účastníci konania, vedľajší účastník konania a zúčastnená osoba
 >
 > Účastníkmi konania sú navrhovateľ, ten, proti komu návrh na začatie konania smeruje, a osoby, o ktorých to ustanovuje tento zákon.
@@ -491,7 +491,7 @@ Piata časť zákona otvára procesnú úpravu konania pred ústavným súdom a 
 
 ### § 33
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Vedľajším účastníkom konania je osoba, ktorej toto postavenie priznáva tento zákon, ak sa tohto postavenia nevzdá. Vedľajší účastník konania má v konaní rovnaké práva a povinnosti ako účastník konania, ak tento zákon neustanovuje inak; koná však iba sám za seba.
 >
 > (2) Zúčastnenou osobou je osoba, ktorá je alebo bola účastníkom konania pred orgánom verejnej moci, v ktorom bolo vydané právoplatné rozhodnutie, prijaté opatrenie alebo vykonaný iný zásah, ktorým malo dôjsť k porušeniu základných práv a slobôd navrhovateľa, ak § 140, § 194 alebo § 208 neustanovuje inak.
@@ -502,7 +502,7 @@ Ustanovenie zavádza dve doplnkové procesné kategórie subjektov konania popri
 
 ### § 34
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Zastúpenie
 >
 > (1) Navrhovateľ musí byť v celom konaní zastúpený advokátom, ak odsek 2 alebo § 35 neustanovuje inak.
@@ -513,7 +513,7 @@ Druhý diel prvej hlavy piatej časti upravuje zastúpenie účastníkov v konan
 
 ### § 35
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Orgán verejnej moci ako účastníka konania zastupuje osoba oprávnená konať v jeho mene alebo ňou poverený zástupca, ktorý musí mať vysokoškolské právnické vzdelanie druhého stupňa. Skupinu poslancov národnej rady podľa čl. 130 ods. 1 písm. a) ústavy ako účastníka konania zastupuje poverený zástupca. Orgán verejnej moci, ako aj skupina poslancov národnej rady podľa čl. 130 ods. 1 písm. a) ústavy sa môžu v konaní nechať zastúpiť advokátom.
 >
 > (2) Za súd ako navrhovateľa podľa čl. 130 ods. 1 písm. d) ústavy koná príslušný sudca alebo predseda príslušného senátu.
@@ -522,14 +522,14 @@ Ustanovenie upravuje osobitný, od všeobecného pravidla § 34 odlišný režim
 
 ### § 36
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > V konaní pred ústavným súdom sa advokát nemôže dať zastúpiť advokátskym koncipientom.
 
 Ustanovenie vylučuje pri konaní pred ústavným súdom substitúciu advokáta advokátskym koncipientom, ktorá je inak bežne prípustná v konaniach pred všeobecnými súdmi. Táto výnimka zdôrazňuje mimoriadny odborný a ústavnoprávny význam konania pred ústavným súdom – zákonodarca tu vyžaduje, aby účastníka v celom priebehu konania zastupoval výlučne samotný advokát, teda osoba s ukončenou advokátskou skúškou a plnou profesijnou zodpovednosťou, nie osoba pripravujúca sa na advokátske povolanie. Absencia možnosti substitúcie koncipientom je tak ďalším prejavom zásady kvalifikovaného zastúpenia zakotvenej v § 34, ktorá pri konaní pred ústavným súdom kladie zvýšené nároky na odbornú úroveň právneho zastúpenia v porovnaní so štandardom bežného civilného alebo správneho súdnictva.
 
 ### § 37
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > (1) Navrhovateľovi, ktorý požiada o ustanovenie právneho zástupcu v konaní pred ústavným súdom, ústavný súd môže ustanoviť právneho zástupcu, ak to odôvodňujú majetkové pomery navrhovateľa a nejde o zrejme bezúspešné uplatňovanie nároku na ochranu ústavnosti; to neplatí, ak je možné ustanoviť právneho zástupcu postupom podľa osobitného predpisu.8a)
 >
 > (2) Trovy ustanoveného právneho zástupcu znáša štát.
@@ -538,7 +538,7 @@ Ustanovenie zabezpečuje reálnu dostupnosť ústavnosúdnej ochrany aj pre navr
 
 ### § 38
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Právo konať vo svojom jazyku
 >
 > (1) Každý má právo konať pred ústavným súdom v materinskom jazyku alebo v jazyku, ktorému rozumie. Ústavný súd je povinný stranám zabezpečiť rovnaké možnosti uplatnenia ich práv. S prihliadnutím na povahu a okolnosti veci priberie ústavný súd tlmočníka.
@@ -549,7 +549,7 @@ Tretí diel prvej hlavy piatej časti zakotvuje ústavnoprávne garantované pr�
 
 ### § 39
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Podanie
 >
 > (1) Podanie je úkon určený ústavnému súdu.
@@ -564,7 +564,7 @@ Tretí diel prvej hlavy piatej časti zakotvuje ústavnoprávne garantované pr�
 
 ### § 40
 
-**Doslovné znění:**
+**Doslovné znenie:**
 > Forma podania
 >
 > (1) Podanie sa ústavnému súdu podáva písomne, a to v listinnej podobe alebo v elektronickej podobe.
